@@ -1,0 +1,50 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / mike / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 24 Oct 2007 09:44:39 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[underground resistance on the cover of the wire magazine]]></title>
+	<link>http://www.detroitinstitute.org/techno/underground_resistance_on__cover___wire_magazine/</link>
+	<source url="http://www.detroitinstitute.org/techno/underground_resistance_on__cover___wire_magazine/"><![CDATA[underground resistance on the cover of the wire magazine]]></source>
+	<description><![CDATA[excellent interview with the man behind the movement, mr mike banks. just read it and tell your friends to do the same. keep it underground. ]]></description>
+	<pubDate>Wed, 24 Oct 2007 09:44:39 -0400</pubDate>
+	<author>mike</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/underground_resistance_on__cover___wire_magazine/</guid>
+</item>
+
+<item>
+	<title><![CDATA[DJ Stingray - Stereotype mix 2007]]></title>
+	<link>http://www.detroitinstitute.org/techno/DJ_Stingray_-_Stereotype_mix_2007/</link>
+	<source url="http://www.detroitinstitute.org/techno/DJ_Stingray_-_Stereotype_mix_2007/"><![CDATA[DJ Stingray - Stereotype mix 2007]]></source>
+	<description><![CDATA[solid mix from dj stringray, aka urban tribe. keepin it detroit. ]]></description>
+	<pubDate>Tue, 02 Oct 2007 13:20:55 -0400</pubDate>
+	<author>mike</author>
+	<category>techno</category>
+	<votes>7</votes>
+	<guid>http://www.detroitinstitute.org/techno/DJ_Stingray_-_Stereotype_mix_2007/</guid>
+</item>
+
+<item>
+	<title><![CDATA[minilogue live in berlin june 2006]]></title>
+	<link>http://www.detroitinstitute.org/techno/minilogue_live_in_berlin_june_2006/</link>
+	<source url="http://www.detroitinstitute.org/techno/minilogue_live_in_berlin_june_2006/"><![CDATA[minilogue live in berlin june 2006]]></source>
+	<description><![CDATA[Just ran across this on minilogue's site and thought it was worth a listen. Clicky, ambient, reverby, very nice. info from site:<br />Recorded June 2006 at Ostgut / Panorama Bar, Berlin<br />94 mb / 192 Kbps MP3 ]]></description>
+	<pubDate>Fri, 31 Aug 2007 09:35:44 -0400</pubDate>
+	<author>mike</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/minilogue_live_in_berlin_june_2006/</guid>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / thomas.summer / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 18 Mar 2008 04:24:58 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Twisted Movement Mix by Thomas Summer]]></title>
+	<link>http://www.detroitinstitute.org/techno/Twisted_Movement_Mix_by_Thomas_Summer/</link>
+	<source url="http://www.detroitinstitute.org/techno/Twisted_Movement_Mix_by_Thomas_Summer/"><![CDATA[Twisted Movement Mix by Thomas Summer]]></source>
+	<description><![CDATA[1.Body Heat(Hot Flush Mix) by Slytek<br />2.Twisted Movement by Valentino Kanzyani & Marko Nastic<br />3.Platonic Solid by Theodor Zox<br />4.Data Sapiens(Radio Slave Remix) by Discemi<br />5.Herzklabaster by Nudisco<br />6.The Island by Boratto & Eyerer<br />7.Brothers And Sisters(NYC Beat mix) by Nick Karvounis<br />8.Controversial Advantages(Ripperton's Game Set & Match Remix) by Agnes<br />9.Paranoid(Eelke Kleijn Remix) by Kosmas Epsilon<br />10.Karma Car by Booka Shade<br />11.Lost in Kioto(Alex Costa remix) by Komytea<br />12.Panikattack(Second Attack Remix) by Plastikman<br />13.1985(Sydenham & Rune Remix) by Argy ]]></description>
+	<pubDate>Tue, 18 Mar 2008 04:24:58 -0400</pubDate>
+	<author>thomas.summer</author>
+	<category>techno</category>
+	<votes>25</votes>
+	<guid>http://www.detroitinstitute.org/techno/Twisted_Movement_Mix_by_Thomas_Summer/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Life Soundtrack Mixed By Thomas Summer]]></title>
+	<link>http://www.detroitinstitute.org/techno/Life_Soundtrack_Mixed_By_Thomas_Summer/</link>
+	<source url="http://www.detroitinstitute.org/techno/Life_Soundtrack_Mixed_By_Thomas_Summer/"><![CDATA[Life Soundtrack Mixed By Thomas Summer]]></source>
+	<description><![CDATA[<b>Life Soundtrack Mixed By Thomas Summer</b><br /><br />1.Snuka by Dave Shokh<br />2.Underwater by Dirty Boots<br />3.Who Killed My Nord by Marcin Czubala<br />4.Kilo Tango(Jerome Sydenham Mix) by Nikola Gala<br />5.Ammount by Terminal<br />6.Life Soundtrack (Radio Slave Remix) by Deetron<br />7.Dummy Variable (Dapayk Remix) by Tanaka Hideyuki<br />8.Different (Voltique Remix) by Solee<br />9.Nautica by MarSET<br />10.Wednesday Nights by Tony Rohr<br />11.Why Not by Tdl & capasso<br />12.Come Back To Brazil by Presslaboys ]]></description>
+	<pubDate>Thu, 17 Jan 2008 21:40:32 -0500</pubDate>
+	<author>thomas.summer</author>
+	<category>techno</category>
+	<votes>31</votes>
+	<guid>http://www.detroitinstitute.org/techno/Life_Soundtrack_Mixed_By_Thomas_Summer/</guid>
+</item>
+
+</channel>
+</rss>

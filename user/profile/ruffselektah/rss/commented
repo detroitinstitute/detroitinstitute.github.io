@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / ruffselektah / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 22 Jul 2010 09:47:59 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Ruff Selektah, stomping techno]]></title>
+	<link>http://www.detroitinstitute.org/techno/Ruff_Selektah_stomping_techno/</link>
+	<source url="http://www.detroitinstitute.org/techno/Ruff_Selektah_stomping_techno/"><![CDATA[Ruff Selektah, stomping techno]]></source>
+	<description><![CDATA[This is a small reflection of, the after riot period after whe wk cup football finale, nl-sp 0-1 in the netherlands, guided with some stomping techno music from Rakish Adhin ]]></description>
+	<pubDate>Thu, 22 Jul 2010 09:47:59 -0400</pubDate>
+	<author>ruffselektah</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Ruff_Selektah_stomping_techno/</guid>
+</item>
+
+</channel>
+</rss>

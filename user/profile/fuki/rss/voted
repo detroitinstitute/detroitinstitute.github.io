@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / fuki / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 06 Jan 2011 09:26:48 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[DJ Rolando @ Kozzmozz 15 Year Anniversary, Ghent, Belgium, 18.12.2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/DJ_Rolando__Kozzmozz_15_Year_Anniversary_Ghent_Belgium_18122010/</link>
+	<source url="http://www.detroitinstitute.org/techno/DJ_Rolando__Kozzmozz_15_Year_Anniversary_Ghent_Belgium_18122010/"><![CDATA[DJ Rolando @ Kozzmozz 15 Year Anniversary, Ghent, Belgium, 18.12.2010]]></source>
+	<description><![CDATA[<img src="http://img703.imageshack.us/img703/5592/6a0133f0d5b0d2970b01348.jpg" alt="Free Image Hosting at www.ImageShack.us" border="0"/><br /><br />1 hr 42 mins, 192 kbps.<br />Wicked mix featuring lots of classics from Mr Aztec Mystic, DJ Rolando.<br /><br /><a href="http://hotfile.com/dl/93264509/fc84fc4/DJ_Rolando__15_Years_-_KOZZMOZZ_-_Gent_-_Belgium_18-12-2010.mp3.html">DOWNLOAD HOTFILE<br /><br /><a href="http://www.filesonic.com/file/50700403">DOWNLOAD FILESONIC ]]></description>
+	<pubDate>Thu, 06 Jan 2011 10:26:48 -0500</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>16</votes>
+	<guid>http://www.detroitinstitute.org/techno/DJ_Rolando__Kozzmozz_15_Year_Anniversary_Ghent_Belgium_18122010/</guid>
+</item>
+
+</channel>
+</rss>

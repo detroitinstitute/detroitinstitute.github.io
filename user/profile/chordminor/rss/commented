@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / chordminor / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 29 Mar 2012 16:57:45 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Crazik - Pain]]></title>
+	<link>http://www.detroitinstitute.org/techno/crazik-pain/</link>
+	<source url="http://www.detroitinstitute.org/techno/crazik-pain/"><![CDATA[Crazik - Pain]]></source>
+	<description><![CDATA[<img src="http://img194.imageshack.us/img194/2844/cp350.jpg"><br /><br />DARK TECHNO MINIMAL <br />Artist : Crazik<br />Title : Pain<br />Lenght: 1hour <br /><br /><a href="http://www.crazik.com/crazik_pain.htm" target="_blank">CLICK HERE</a><br /><br />Enjoy this new release ! ]]></description>
+	<pubDate>Thu, 29 Mar 2012 16:57:45 -0400</pubDate>
+	<author>djchris</author>
+	<category>techno</category>
+	<votes>18</votes>
+	<guid>http://www.detroitinstitute.org/techno/crazik-pain/</guid>
+</item>
+
+</channel>
+</rss>

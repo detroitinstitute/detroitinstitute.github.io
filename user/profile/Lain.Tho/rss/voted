@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Lain.Tho / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 31 May 2007 09:25:59 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Lain.Tho-Groovy.Set-24-05-07]]></title>
+	<link>http://www.detroitinstitute.org/techno/LainTho-GroovySet-24-05-07-2/</link>
+	<source url="http://www.detroitinstitute.org/techno/LainTho-GroovySet-24-05-07-2/"><![CDATA[Lain.Tho-Groovy.Set-24-05-07]]></source>
+	<description><![CDATA[This is a Promo minimal techno mix from Lain.Tho,<br />Here is the tracklist:<br /><br />01-Prosumer,Murat Tepeli - What makes you go for it<br />03-Pan-Pot-Wake UP<br />03-Marcel Dettman-Quicksand<br />04-Anja Schneider-Addicted<br />05-Rejected-Cliche<br />06-Tadeo-Dorado<br />07-Danilo Vigorito-Heka birght side<br />08-Davide Squillace-Nasty in the pasty<br />09-Shlomi Aber-Freakside<br />10-Rino Cerrone-Burn it<br />11-Paul Ritch-Samba<br />12-Mark Broom-Highs and Lows<br />13-Marek Bois-Keta Nina<br />14-Mark Henning-Ring of Fire<br />15-Claude von Stroke-WhoÂ´s Afraid Detroit(3Channels remix)<br /><br />Enjoy it!!<br /><br /><a href="http://www.snapdrive.net/files/446366/Lain.Tho-Groovy.Set-24-05-07.mp3 ">Download mp3</a> ]]></description>
+	<pubDate>Thu, 31 May 2007 09:25:59 -0400</pubDate>
+	<author>Lain.Tho</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/LainTho-GroovySet-24-05-07-2/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Makai's Closet Techno Mix for May]]></title>
+	<link>http://www.detroitinstitute.org/techno/Makais_Closet_Techno_Mix__May/</link>
+	<source url="http://www.detroitinstitute.org/techno/Makais_Closet_Techno_Mix__May/"><![CDATA[Makai's Closet Techno Mix for May]]></source>
+	<description><![CDATA[Makai's Closet Techno Mix for May. Lots of minimal tracks, from our favorite <a href="http://www.detroitinstitute.org/techno/MIA_Electronation-1/">MIA</a>, Ambivalent's Nuggets and <a href="http://www.detroitinstitute.org/techno/Baby-Kate-remixes/">a remix of Heartthrob's Baby Kate on Minus</a>.  Overall nice track selection.<br /><br /><a href="http://www.thisisourproduct.com/lib/audio/mixes/makaiClosetTechnoMixMay07.mp3">Download mp3</a><br /><br />Tracklisting:<br /><br />01. Butch â€" Life Is Deadly (Christian Phoenix Remix)<br />02. Future Beat Investigators - All I Want<br />03. Badmouth â€" Anymore (Phonique Remix)<br />04. Tam Cooper â€" Galactica (Jimpster Remix)<br />05. Shlomi Aber â€" Freakside<br />06. Mia â€" Swoon (Shonky Remix)<br />07. Ambivalent â€" Nuggets<br />08. Heartthrob â€" Baby Kate (Magdaâ€™s Whereâ€™s My Baby Daddy Remix)<br />09. Kidscience â€" The Lights (Boogie Drama Remix)<br />10. Alex Smoke â€" Hanged Man<br />11. Lissat & Voltaxx â€" Arschkatzen (Asscats In Sight Mix)<br />12. Piemont â€" Carbonat<br />13. Marc Antona â€" Save Me<br />14. David K â€" Boul De Nerf<br />15. Audion â€" I Gave You Away ]]></description>
+	<pubDate>Sat, 19 May 2007 01:00:28 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Makais_Closet_Techno_Mix__May/</guid>
+</item>
+
+</channel>
+</rss>

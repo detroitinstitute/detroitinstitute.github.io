@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Metrognome / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 23 Feb 2011 20:01:34 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[DJ Metrognome current sets]]></title>
+	<link>http://www.detroitinstitute.org/techno/dj-metrognome-current-sets-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/dj-metrognome-current-sets-1/"><![CDATA[DJ Metrognome current sets]]></source>
+	<description><![CDATA[DJ Metrognome current sets ]]></description>
+	<pubDate>Wed, 23 Feb 2011 21:01:34 -0500</pubDate>
+	<author>Metrognome</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/dj-metrognome-current-sets-1/</guid>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / jaffakid / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 07 Sep 2011 06:35:29 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Jaffa Kid-Motor City Mix 1 ]]></title>
+	<link>http://www.detroitinstitute.org/techno/jaffa-kid-motor-city-mix-1-/</link>
+	<source url="http://www.detroitinstitute.org/techno/jaffa-kid-motor-city-mix-1-/"><![CDATA[Jaffa Kid-Motor City Mix 1 ]]></source>
+	<description><![CDATA[ This is a mix of alot of current/past/old/new space funk of mainly Detroit stuff I've been digging recently, hope you all enjoy it, would love abit of feedback if possible, thanks alot. 44 mins, tried to cram in as many tunes as possible, hopefully it flows ok. ]]></description>
+	<pubDate>Wed, 07 Sep 2011 06:35:29 -0400</pubDate>
+	<author>jaffakid</author>
+	<category>techno</category>
+	<votes>7</votes>
+	<guid>http://www.detroitinstitute.org/techno/jaffa-kid-motor-city-mix-1-/</guid>
+</item>
+
+</channel>
+</rss>

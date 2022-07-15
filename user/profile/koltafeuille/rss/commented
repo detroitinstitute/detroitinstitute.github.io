@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / koltafeuille / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 03 Jun 2007 01:23:54 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Takaaki Itoh - Keep Area Caceres Spain 26.5.2007]]></title>
+	<link>http://www.detroitinstitute.org/techno/Takaaki_Itoh_-_Keep_Area_Caceres_Spain_2652007/</link>
+	<source url="http://www.detroitinstitute.org/techno/Takaaki_Itoh_-_Keep_Area_Caceres_Spain_2652007/"><![CDATA[Takaaki Itoh - Keep Area Caceres Spain 26.5.2007]]></source>
+	<description><![CDATA[A new set from our favorite Japanese techno DJ and producer Takaaki Itoh, this one from Keep Area Caceres Spain 26.5.2007.  Hard, fast, and delicious as always.<br /><br /><a href="http://www.takaakiitoh.com/sets/Takaaki_Itoh_Keep_Area_Caceres_Spain_26_05_2007.mp3">Download mp3</a><br /><br />Total time 1:39:20<br /><br />Want more?<br /><a href="http://www.detroitinstitute.org/techno/Takaaki_Itoh__Go_Hiyama/">Takaaki Itoh and Go Hiyama @ Aixa Galiana (Avila ,Spain) and Takaaki Itoh presents 'Promo DJ Mix 03 2007' </a><br /><a href="http://www.detroitinstitute.org/techno/Takaaki_Itoh_at_Orange_Club/">Takaaki Itoh at Orange Club</a> (highly recommended)<br /><a href="http://www.detroitinstitute.org/techno/Go_Hiyama__Takaaki_Itoh_at_Groove/">Go Hiyama and Takaaki Itoh at Groove</a> ]]></description>
+	<pubDate>Sun, 03 Jun 2007 01:23:54 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/Takaaki_Itoh_-_Keep_Area_Caceres_Spain_2652007/</guid>
+</item>
+
+</channel>
+</rss>

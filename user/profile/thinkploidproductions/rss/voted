@@ -1,0 +1,50 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / thinkploidproductions / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 13 Jan 2010 17:49:51 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Bleep Radio 195: Trevor Wilkes]]></title>
+	<link>http://www.detroitinstitute.org/techno/Bleep_Radio_195_Trevor_Wilkes/</link>
+	<source url="http://www.detroitinstitute.org/techno/Bleep_Radio_195_Trevor_Wilkes/"><![CDATA[Bleep Radio 195: Trevor Wilkes]]></source>
+	<description><![CDATA[[00:05] 3d!t "Bleep Radio Intro"<br />[01:05] Cari Lekebusch "Know They For Because" Hybrid 1203<br />[05:11] Fran Hartnett "Alpha" Mantrap 05<br />[08:37] Miro Pajic "Afterparty Mix" Tonewrecker 13<br />[13:07] Dj Sueme "A Long Way Down" dotcom<br />[15:39] Braincell "Spinal Chord" Harthouse 10-3<br />[19:59] Syntheme "XWC" PLanet Mu 193<br />[23:06] Fred "Skin Up" Analog 27<br />[26:32] Kid Unknown "Nightmare" Warp 05<br />[29:26] The Gruffians "The Power" Gruff 01<br />[32:57] Brixton "Komm" Holzplatten 81<br />[35:36] Sunil Sharpe "Print More Money And Shut Up" Mantrap 04<br />[38:37] Wee Djs "Kill Them" Gassoline 07<br />[42:22] Posthuman "Lander" HAndsette 03<br />[44:33] Thomas Bangalter "Ventura" Roule 301<br />[46:57] Armand Van Helden "The Funk Phenomena" White<br />[52:10] Anthony Shakir "My Computer Is An Optimist" Frictional 11<br />[56:12] Jerome Hill "West Street Blag" Beetroot 01<br /><br /><a href="http://www.fun-in-the-murky.com/Bleep_Radio/Bleep%20Radio%20e195%20-%20Trevor%20Wilkes%20-%2001-13-2010.mp3">Download</a> ]]></description>
+	<pubDate>Wed, 13 Jan 2010 18:49:51 -0500</pubDate>
+	<author>isoprax</author>
+	<category>techno</category>
+	<votes>5</votes>
+	<guid>http://www.detroitinstitute.org/techno/Bleep_Radio_195_Trevor_Wilkes/</guid>
+</item>
+
+<item>
+	<title><![CDATA[THiNK PL0iD Productions present it`s first minimal experience]]></title>
+	<link>http://www.detroitinstitute.org/techno/THiNK_PL0iD_Productions_present_its_first_minimal_experience-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/THiNK_PL0iD_Productions_present_its_first_minimal_experience-1/"><![CDATA[THiNK PL0iD Productions present it`s first minimal experience]]></source>
+	<description><![CDATA[Hi all. <br />I`ve tried to create a minimal session, usualy i prefer real Electro (for example Dr. Skunkenstein in da Mix) and real Detroit Music ( Robert Hood, Derick May, scan 7 etc. ).<br /><br />Hello! From the Country with Chocs/Wachts and Mountains<br /><br />http://rapidshare.com/files/333202422/THiNK_PL0iD_Volume_II.mp3 ]]></description>
+	<pubDate>Sun, 10 Jan 2010 13:43:16 -0500</pubDate>
+	<author>thinkploidproductions</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/THiNK_PL0iD_Productions_present_its_first_minimal_experience-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Enggenier - Chardonnay EP (Oscilator Netlabel)[FreeOsc63]]]></title>
+	<link>http://www.detroitinstitute.org/news/Enggenier_-_Chardonnay_EP_Oscilator_NetlabelFreeOsc63/</link>
+	<source url="http://www.detroitinstitute.org/news/Enggenier_-_Chardonnay_EP_Oscilator_NetlabelFreeOsc63/"><![CDATA[Enggenier - Chardonnay EP (Oscilator Netlabel)[FreeOsc63]]]></source>
+	<description><![CDATA[Yes we know it is 2010, and we do think about you, so our first release for this year, Chardonnay ep by Enggenier, is here available as free download. Emir Selimovic a.k.a. Enggenier already had his debut on Oscilator with Traumline EP in 2007, and now he is back with three sofisticated and mature deep/tech-house tracks that will surely stand out in any set. So, download the release, and house yourself. ]]></description>
+	<pubDate>Sun, 10 Jan 2010 11:18:20 -0500</pubDate>
+	<author>memphis_run</author>
+	<category>news</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/news/Enggenier_-_Chardonnay_EP_Oscilator_NetlabelFreeOsc63/</guid>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / 76er / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 07 Sep 2008 15:31:08 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[kenny larkin,awakenings 2008,amsterdam]]></title>
+	<link>http://www.detroitinstitute.org/techno/kenny_larkinawakenings_2008amsterdam/</link>
+	<source url="http://www.detroitinstitute.org/techno/kenny_larkinawakenings_2008amsterdam/"><![CDATA[kenny larkin,awakenings 2008,amsterdam]]></source>
+	<description><![CDATA[Can any body help me to discover some tracks that mr.larkin played on this set in amsterdam??i know he played beanfield(carl craig rmx),bassline(joris voorn rmx),flash(joy beltram),fix(kms-orlando voorn),tropical melons(2000and one),humana rmx(ignacio aka steve rachmad),sandee-notice me,french kiss(lil louis)but i,m really interested on some tracks after flash-joy beltram-and i don,t know wich tracks are.<br />Thank u very much!!<br />Long life to detroit sound. ]]></description>
+	<pubDate>Sun, 07 Sep 2008 15:31:08 -0400</pubDate>
+	<author>76er</author>
+	<category>techno</category>
+	<votes>12</votes>
+	<guid>http://www.detroitinstitute.org/techno/kenny_larkinawakenings_2008amsterdam/</guid>
+</item>
+
+</channel>
+</rss>

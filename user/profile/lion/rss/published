@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / lion / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 21 Jun 2007 22:57:26 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Music for Nightclubs tape #2: Strange Ritual mixed by Aaron Shinn]]></title>
+	<link>http://www.detroitinstitute.org/techno/Music__Nightclubs_tape_2_Strange_Ritual_mixed_by_Aaron_Shinn-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Music__Nightclubs_tape_2_Strange_Ritual_mixed_by_Aaron_Shinn-1/"><![CDATA[Music for Nightclubs tape #2: Strange Ritual mixed by Aaron Shinn]]></source>
+	<description><![CDATA[Both streaming and download available here:<br /><a href=http://www.aaronshinn.com/news/?p=24>http://www.aaronshinn.com/news/?p=24</a><br /><br />TRACKLIST:<br />01. Intro<br />02. Abe Duque - What Happened, B2 (Abe Duque)<br />03. Pom Pom - Pom Pom 24 A1 (Pom Pom)<br />04. Dexter & Bass-A-Rani - Boogie Chasers, Original Edit (Nature)<br />05. Monolake - Force (Imbalance Computer Music)<br />06. Lionel Hampton - Vibramatic, Joakim Remix (Crippled Dick Hot Wax)<br />07. Lopazz - Migracion, Lucianoâ€™s Camaleon Rmx (Get Physical)<br />08. Konk - Percussion Jam (4th & Bâ€™way)<br />09. Phuture - Acid Trax (Trax)<br />10. Pom Pom - Pom Pom 23 A (Pom Pom)<br />11. M83 - Run Into Flowers, Midnight Fuck Remix by Jackson (Gooom)<br />12. Chateau Flight - Baroque (Innervisions)<br />13. Critical Phase - Voice of the Phase (New Religion)<br />14. Focus - Spaceship Rocket (Versatile)<br />15. Carsten Jost - Love (Dial)<br /><br /><br />[Edit by Tomo]<br />"Acid Trax... classic.  Watch <a href="http://www.smirkingloon.com/video/bassline_baseline.php">Bassline Baseline - Nate Harrison - Story of the Roland TB-303</a> for some history behind the technology of that song (it's featured in the video)." ]]></description>
+	<pubDate>Thu, 21 Jun 2007 22:57:26 -0400</pubDate>
+	<author>lion</author>
+	<category>techno</category>
+	<votes>5</votes>
+	<guid>http://www.detroitinstitute.org/techno/Music__Nightclubs_tape_2_Strange_Ritual_mixed_by_Aaron_Shinn-1/</guid>
+</item>
+
+</channel>
+</rss>

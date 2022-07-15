@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Andrew / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sat, 27 Oct 2007 10:14:56 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Isomer Transition Live from NYC]]></title>
+	<link>http://www.detroitinstitute.org/techno/Isomer_Transition_Live_from_NYC/</link>
+	<source url="http://www.detroitinstitute.org/techno/Isomer_Transition_Live_from_NYC/"><![CDATA[Isomer Transition Live from NYC]]></source>
+	<description><![CDATA["Brooklyn based RJ Valeo, author of the seminal "September," recently returned with a full-length EP for Moodgadget entitled "Mission to Mars". We were lucky enough to nab this live set from one of NYC's finest minimal-tech nights, LESS. Expect heady thick atmospheres, deep bass and crisp, consistent percussion. Zero gravity, space-beats."<br /><br />Isomer Transition Live from NYC<br />Total Time: 01:01:42<br /> <a href="http://www.percussionlab.com/Audio/IsomerTransitionLive.m3u">Stream (M3U)</a><br /> <a href="http://www.percussionlab.com/Audio/IsomerTransitionLive.mp3">Download (MP3)</a><br /> ]]></description>
+	<pubDate>Sat, 27 Oct 2007 10:14:56 -0400</pubDate>
+	<author>Clampants</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Isomer_Transition_Live_from_NYC/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Diamond No. 1 - Maximal Mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/Diamond_No_1_-_Maximal_Mix/</link>
+	<source url="http://www.detroitinstitute.org/techno/Diamond_No_1_-_Maximal_Mix/"><![CDATA[Diamond No. 1 - Maximal Mix]]></source>
+	<description><![CDATA[From Diamond No. 1 a mix of "maximal" techno to serve as counterweight to all that is "minimal" (or not).  And what you'll find is a lot of Detroit techno, and a lot of DJ Bone.<br /><br />Tracklisting:<br />Dj Bone-music intro<br />Gi Gi galaxy â€" in rhythm<br />Juan Atkins-detroit sessions<br />The cause â€" raid ep<br />Gary martin- ritual fire dance<br />Paula Temple â€"<br />Trible cuts<br />Eamon doyle-ghost in the machine<br />Kenny larkin â€" vanguard ep<br />H&M- mutant theory<br />Dj Bone â€" modern melodies<br />Funk dâ€™void â€" Vger<br />Soul Tech â€" JIT remix 96â€™<br />Dj Shufflemaster- re weekender<br />Indoor cultures- birmingham remix<br />Matthew jonson- typerope<br />Ken ishii- overlap<br />Rob hood â€" technatural ep<br />Headroom â€" burning angels vol 2<br />Gary Martin-lounge blue<br />The advent-???<br />Danilo vigorito â€" knapper<br />Dj bone- body bags<br />SLS- new soil<br />Charles seigling â€" two<br />Dj bone- music outro<br />Bobby bird â€" I know u got soul <br /><br />(set list is possibly inaccurate)<br /><br /><a href="http://www.megaupload.com/?d=715OLF0C">Download mp3 from megaupload</a> ]]></description>
+	<pubDate>Tue, 11 Sep 2007 21:44:43 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>19</votes>
+	<guid>http://www.detroitinstitute.org/techno/Diamond_No_1_-_Maximal_Mix/</guid>
+</item>
+
+</channel>
+</rss>

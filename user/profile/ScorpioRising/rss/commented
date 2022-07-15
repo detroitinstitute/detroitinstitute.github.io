@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / ScorpioRising / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 08 Feb 2009 00:41:57 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Summer Oliver - Winter Mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/Summer_Oliver_-_Winter_Mix/</link>
+	<source url="http://www.detroitinstitute.org/techno/Summer_Oliver_-_Winter_Mix/"><![CDATA[Summer Oliver - Winter Mix]]></source>
+	<description><![CDATA[For techno in Buffalo, it's always Summer. ]]></description>
+	<pubDate>Sun, 08 Feb 2009 01:41:57 -0500</pubDate>
+	<author>ScorpioRising</author>
+	<category>techno</category>
+	<votes>47</votes>
+	<guid>http://www.detroitinstitute.org/techno/Summer_Oliver_-_Winter_Mix/</guid>
+</item>
+
+</channel>
+</rss>

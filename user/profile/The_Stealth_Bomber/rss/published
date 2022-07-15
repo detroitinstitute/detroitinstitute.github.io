@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / The_Stealth_Bomber / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 29 Dec 2010 12:47:41 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Electric Soul]]></title>
+	<link>http://www.detroitinstitute.org/techno/Electric_Soul/</link>
+	<source url="http://www.detroitinstitute.org/techno/Electric_Soul/"><![CDATA[Electric Soul]]></source>
+	<description><![CDATA[Detroit Techno set mixed by Phil Smith. Dublin. ]]></description>
+	<pubDate>Wed, 29 Dec 2010 13:47:41 -0500</pubDate>
+	<author>The_Stealth_Bomber</author>
+	<category>techno</category>
+	<votes>16</votes>
+	<guid>http://www.detroitinstitute.org/techno/Electric_Soul/</guid>
+</item>
+
+</channel>
+</rss>

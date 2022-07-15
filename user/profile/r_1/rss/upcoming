@@ -1,0 +1,50 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / r_1 / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 24 May 2010 14:49:01 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[R1@ViaSoundRadio Greece 21-05- 2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/R1ViaSoundRadio_Greece_21-05-_2010/</link>
+	<source url="http://www.detroitinstitute.org/techno/R1ViaSoundRadio_Greece_21-05-_2010/"><![CDATA[R1@ViaSoundRadio Greece 21-05- 2010]]></source>
+	<description><![CDATA[This mix was recorded and played on Via Sound Radio (Greece)<br />on 21. may 2010. It consists of old, and new school detroit techno, and techno...as you can see from the track list.<br /><br />01 System 7 â€" Big sky city<br />02 Jack de Marseille â€" Sweet sensation<br />03 Ian Pooley â€" The dark white (MPC Mix)<br />04 Guillaume & The Coutou Doumonts â€" Raw<br />05 Kerri Chandler â€" Pong (Ben Klocks bones and strings rework)<br />/ intermixed with Bucketheads â€" I wanna know (Original Mix)<br />06 Guy Gerber â€" Timinig (Original Mix)<br />07 Shaun King â€" Conspiracy<br />08 Martin Buttrich â€" Stoned autopilot (C2 version)<br />09 Francois Dubois & Master H â€" La Balance (Original Mix)<br />10 Preocoop â€" Raudio<br />11 Quince â€" Americana<br />12 Jamie anderson â€" Black sun<br />13 Steve Rachmad â€" Hidden alleys<br />14 Omar S â€" The further you look the less you will see ]]></description>
+	<pubDate>Mon, 24 May 2010 14:49:01 -0400</pubDate>
+	<author>r_1</author>
+	<category>techno</category>
+	<votes>5</votes>
+	<guid>http://www.detroitinstitute.org/techno/R1ViaSoundRadio_Greece_21-05-_2010/</guid>
+</item>
+
+<item>
+	<title><![CDATA[R1@GreenRoom 26-04-2009]]></title>
+	<link>http://www.detroitinstitute.org/techno/R1GreenRoom_26-04-2009/</link>
+	<source url="http://www.detroitinstitute.org/techno/R1GreenRoom_26-04-2009/"><![CDATA[R1@GreenRoom 26-04-2009]]></source>
+	<description><![CDATA[This one is much darker than the previous one i recorded, but still very dancable! Lot of good detroit techno and techno tracks in this one! :) ]]></description>
+	<pubDate>Thu, 08 Apr 2010 12:56:32 -0400</pubDate>
+	<author>r_1</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/R1GreenRoom_26-04-2009/</guid>
+</item>
+
+<item>
+	<title><![CDATA[R1@BlueRoom`05]]></title>
+	<link>http://www.detroitinstitute.org/techno/R1BlueRoom05/</link>
+	<source url="http://www.detroitinstitute.org/techno/R1BlueRoom05/"><![CDATA[R1@BlueRoom`05]]></source>
+	<description><![CDATA[My oldest recorded mix. From deep house, over house and to detroit, just the way i like it! :) ]]></description>
+	<pubDate>Thu, 08 Apr 2010 12:52:16 -0400</pubDate>
+	<author>r_1</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/R1BlueRoom05/</guid>
+</item>
+
+</channel>
+</rss>

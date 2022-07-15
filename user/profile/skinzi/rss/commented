@@ -1,0 +1,50 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / skinzi / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 13 May 2008 07:11:46 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Simon Baker_Shonky_Audiojack_Cocoon Mix_Steve Kinsey live at The Morgan, Dublin, 260408...]]></title>
+	<link>http://www.detroitinstitute.org/techno/Simon_Baker_Shonky_Audiojack_Cocoon_Mix_Steve_Kinsey_live_at__Morgan_Dublin_260408-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Simon_Baker_Shonky_Audiojack_Cocoon_Mix_Steve_Kinsey_live_at__Morgan_Dublin_260408-1/"><![CDATA[Simon Baker_Shonky_Audiojack_Cocoon Mix_Steve Kinsey live at The Morgan, Dublin, 260408...]]></source>
+	<description><![CDATA[hi!  a live mix from a couple of weekends back featuring stuff from the likes of simon baker, audiojack, danton eeprom / shonky, lutzenkirchen, lucio acquilina etc on labels like 2020 vision, freak n chic, cocoon, wagon repair etc etc.  i think i'm supposed to keep this short, so if you want a full track list hit me at skinzi AT gmail DOT com ]]></description>
+	<pubDate>Tue, 13 May 2008 07:11:46 -0400</pubDate>
+	<author>skinzi</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Simon_Baker_Shonky_Audiojack_Cocoon_Mix_Steve_Kinsey_live_at__Morgan_Dublin_260408-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[BUZZIN FLY, JIMPSTER, 20 20 VISION ETC - Steve Kinsey live mix, Dublin, July 2007]]></title>
+	<link>http://www.detroitinstitute.org/techno/BUZZIN_FLY_JIMPSTER_20_20_VISION_ETC_-_Steve_Kinsey_live_mix_Dublin_July_2007/</link>
+	<source url="http://www.detroitinstitute.org/techno/BUZZIN_FLY_JIMPSTER_20_20_VISION_ETC_-_Steve_Kinsey_live_mix_Dublin_July_2007/"><![CDATA[BUZZIN FLY, JIMPSTER, 20 20 VISION ETC - Steve Kinsey live mix, Dublin, July 2007]]></source>
+	<description><![CDATA[Short live mix (40 mins) of my 5 favourite deep / tech house tracks on a <b>Freerange / Buzzin Fly</b> kinda level.  Along with dubstep I reckon this syle is currently one of the freshest and most exciting the UK has to offer.  Hope you like :-) ]]></description>
+	<pubDate>Mon, 27 Aug 2007 07:47:20 -0400</pubDate>
+	<author>skinzi</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/BUZZIN_FLY_JIMPSTER_20_20_VISION_ETC_-_Steve_Kinsey_live_mix_Dublin_July_2007/</guid>
+</item>
+
+<item>
+	<title><![CDATA[SAMIM GOT SOUL MICROMIX (28 Minutes) - Steve Kinsey live in Dublin, August 2007.]]></title>
+	<link>http://www.detroitinstitute.org/techno/SAMIM_GOT_SOUL_MICROMIX_28_Minutes_-_Steve_Kinsey_live_in_Dublin_August_2007/</link>
+	<source url="http://www.detroitinstitute.org/techno/SAMIM_GOT_SOUL_MICROMIX_28_Minutes_-_Steve_Kinsey_live_in_Dublin_August_2007/"><![CDATA[SAMIM GOT SOUL MICROMIX (28 Minutes) - Steve Kinsey live in Dublin, August 2007.]]></source>
+	<description><![CDATA[Samim is one of my favourite producers right now.  His productions tend to be lumped-in under the 'minimal' umbrella term, but  his stuff always has a really nice deep, warm and soulful feel.  This mix is quite short as I just slipped into Samim-mode 'coming in to land' at the end of a four hour live set...so there's two tracks and two remixes by Samim, and my favourite outro 'Voodoo Ray' as a little retro cherry on top. ]]></description>
+	<pubDate>Mon, 27 Aug 2007 05:35:42 -0400</pubDate>
+	<author>skinzi</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/SAMIM_GOT_SOUL_MICROMIX_28_Minutes_-_Steve_Kinsey_live_in_Dublin_August_2007/</guid>
+</item>
+
+</channel>
+</rss>

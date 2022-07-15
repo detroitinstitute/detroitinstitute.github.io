@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / kwaczo / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 13 Sep 2007 07:31:32 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[OFF BEAT TECHNO LIVE]]></title>
+	<link>http://www.detroitinstitute.org/techno/OFF_BEAT_TECHNO_LIVE-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/OFF_BEAT_TECHNO_LIVE-1/"><![CDATA[OFF BEAT TECHNO LIVE]]></source>
+	<description><![CDATA[OFF BEAT TECHNO, MINIMAL, SETS, LOOPS<br /><a href="http://www.kwaczo.com"> http://www.kwaczo.com</a> <br />Download /sets/<br /><a href="http://www.beatbutchery.co.uk/sets/2007_kwaczo_summer_session_3.mp3"> 2007 | LIVE | SUMMER SESSION 3 </a> <br /><a href="http://www.beatbutchery.co.uk/track/KWACZO_RAIN.zip"> 2007 | Track | Minimal Rain HQ FULL TRACK for download </a> <br /><a href="http://www.beatbutchery.co.uk/sets/KWACZO_HIGH_WYCOMBE_UK_2007.zip"> 2007 | Live | High Wycombe </a> <br /><a href="http://www.beatbutchery.co.uk/sets/KWACZO_LIVE_GUNPOWDER.mp3"> 2006 | Live | Gun Powder </a> <br /><a href="http://www.beatbutchery.co.uk/sets/KWACZO_TECHNO_LOOP_SERVIS_2002.mp3"> 2002 | Live | Techno Loop Servis </a> <br /><br />BB03 SVINE NA GRILU<br />Hi Mates NEW RELEASE BB03 is COMING ALIVE :) <br />FEW INFO and more later...<br /><br />SIDE A1: SPYRO | LUPYJAKOPLACHTY<br />SIDE A2: KWACZO | ROTACE<br />SIDE B1: MINDHOLE | A MAZEJ!<br />SIDE B2: ELEKTRABEL | NASCHOD<br /><br /><a href="http://www.beatbutchery.co.uk"><img src="http://www.beatbutchery.co.uk/bb03_svine_nagrilu.jpg" width="321" height="709" /></a> ]]></description>
+	<pubDate>Thu, 13 Sep 2007 07:31:32 -0400</pubDate>
+	<author>kwaczo</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/OFF_BEAT_TECHNO_LIVE-1/</guid>
+</item>
+
+</channel>
+</rss>

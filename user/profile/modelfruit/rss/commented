@@ -1,0 +1,50 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / modelfruit / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 05 Nov 2007 04:48:20 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Convextion live 2006]]></title>
+	<link>http://www.detroitinstitute.org/techno/Convextion_live_2006/</link>
+	<source url="http://www.detroitinstitute.org/techno/Convextion_live_2006/"><![CDATA[Convextion live 2006]]></source>
+	<description><![CDATA[Convextion AKA Gerard Hanson E.R.P recorded live in London on the 30th April 2006. ]]></description>
+	<pubDate>Mon, 05 Nov 2007 05:48:20 -0500</pubDate>
+	<author>313</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/Convextion_live_2006/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Jeff Mills, A Guy Called Gerald, and Vladislav D. at Detroit Electronic Music Festival Movement 2007]]></title>
+	<link>http://www.detroitinstitute.org/techno/Jeff_Mills__Guy_Called_Gerald__Vladislav_D_at_Detroit_Electronic_Music_Festival_Movement_2007/</link>
+	<source url="http://www.detroitinstitute.org/techno/Jeff_Mills__Guy_Called_Gerald__Vladislav_D_at_Detroit_Electronic_Music_Festival_Movement_2007/"><![CDATA[Jeff Mills, A Guy Called Gerald, and Vladislav D. at Detroit Electronic Music Festival Movement 2007]]></source>
+	<description><![CDATA[Sets from Jeff Mills, A Guy Called Gerald, and Vladislav Delay recorded live at Detroit Electronic Music Festival Movement (DEMF/Movement) 2007!  Okay, they're bootleg recordings and the Jeff Mills set is only a partial recording but still...<br /><br /><a href="http://www.megaupload.com/?d=BRMS91JT">Download sets from megaupload</a> ]]></description>
+	<pubDate>Sun, 17 Jun 2007 23:53:13 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>19</votes>
+	<guid>http://www.detroitinstitute.org/techno/Jeff_Mills__Guy_Called_Gerald__Vladislav_D_at_Detroit_Electronic_Music_Festival_Movement_2007/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Ryan Elliott - Minimise:Mixed - Color Series]]></title>
+	<link>http://www.detroitinstitute.org/techno/Ryan_Elliott_-_MinimiseMixed_-_Color_Series/</link>
+	<source url="http://www.detroitinstitute.org/techno/Ryan_Elliott_-_MinimiseMixed_-_Color_Series/"><![CDATA[Ryan Elliott - Minimise:Mixed - Color Series]]></source>
+	<description><![CDATA[Ryan Elliott - Minimise:Mixed - Color Series.  New mix from Ghostly artist <a href="http://www.detroitinstitute.org/techno/Ryan_Elliotts_memories__Mexico_City/">Ryan Elliott</a>, good friend and sometimes partner of <a href="http://www.detroitinstitute.org/techno/Matthew-Dear-%40-KUT-Rave-is-Nothing-to-Fear-1/">Matthew Dear</a>.  A damn good DJ and a solid mix of minimal techno.<br /><br /><a href="http://sound.modelfruit.com/sets/r_elliott-minimise_mixed-color_series.mp3">Download mp3</a> ]]></description>
+	<pubDate>Fri, 15 Jun 2007 16:04:03 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>7</votes>
+	<guid>http://www.detroitinstitute.org/techno/Ryan_Elliott_-_MinimiseMixed_-_Color_Series/</guid>
+</item>
+
+</channel>
+</rss>

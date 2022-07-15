@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Tylast / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 23 Nov 2008 09:27:45 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Ty LaStrapes - Electro Set #1]]></title>
+	<link>http://www.detroitinstitute.org/techno/Ty_LaStrapes_-_Electro_Set_1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Ty_LaStrapes_-_Electro_Set_1/"><![CDATA[Ty LaStrapes - Electro Set #1]]></source>
+	<description><![CDATA[Wide ranging hot Electro mix!<br /><br />Tracklist:<br /><br />0:00 	Kraftwerk - Tour de France (Live)<br />8:30	Rob Holloway - Micro-Dotz<br />14:30	Anthony Rother - Adam & Eve<br />17:30	Detroit Grand Pu Bahs - Sandwiches<br />21:00	Vanguard - Vangaurd Extended<br />24:00	Yasuyuki Hirata - Hologramized Memories<br />27:30	Keith Tucker - Speaker Worshiping<br />32:00	Spirit Catcher - Our Rhythm & Sound (DJ 3000 Mix)<br />36:00	Kronos Device - Qube<br />39:30	Aux 88 - Direct Drive<br />43:30	Gosub - Last Sequence Complete<br />48:00 	The Advent - Work Dat<br />52:00	? - Vocal Lick<br />55:00	Aaron Carl - Ctrl End<br />57:00	DJ Rashad - Get It Shorty<br />59:00	DJ Rashad - Damn Ma<br />61:00	Ozone Layer -  Planetary Deterioration<br />64:00	Ty LaStrapes - You Can't Stop My House<br />69:00	Microthol - Sweet Water Tank ]]></description>
+	<pubDate>Sun, 23 Nov 2008 10:27:45 -0500</pubDate>
+	<author>Tylast</author>
+	<category>techno</category>
+	<votes>13</votes>
+	<guid>http://www.detroitinstitute.org/techno/Ty_LaStrapes_-_Electro_Set_1/</guid>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,122 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Iggie / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sat, 26 Feb 2011 12:34:56 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Marco Bernardi (Live) @ Efir Club, St Petersburg, 05.02.2011]]></title>
+	<link>http://www.detroitinstitute.org/techno/marco-bernardi-live-efir-club-st-petersburg-05-02-2011/</link>
+	<source url="http://www.detroitinstitute.org/techno/marco-bernardi-live-efir-club-st-petersburg-05-02-2011/"><![CDATA[Marco Bernardi (Live) @ Efir Club, St Petersburg, 05.02.2011]]></source>
+	<description><![CDATA[Wicked 1 hr liveset from Marco Bernardi (Clone/Soma) ]]></description>
+	<pubDate>Sat, 26 Feb 2011 13:34:56 -0500</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/marco-bernardi-live-efir-club-st-petersburg-05-02-2011/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Paperclip People (Live) @ Fever, SF, Jan 1998]]></title>
+	<link>http://www.detroitinstitute.org/techno/paperclip-people-live-fever-sf-jan-1998-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/paperclip-people-live-fever-sf-jan-1998-1/"><![CDATA[Paperclip People (Live) @ Fever, SF, Jan 1998]]></source>
+	<description><![CDATA[Carl Craig Liveset - still sounding amazing after 13 yrs!! ]]></description>
+	<pubDate>Thu, 17 Feb 2011 13:10:03 -0500</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/paperclip-people-live-fever-sf-jan-1998-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Fabrice Lig - Metro Techno Mix, Oct 2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/Fabrice_Lig_-_Metro_Techno_Mix_Oct_2010/</link>
+	<source url="http://www.detroitinstitute.org/techno/Fabrice_Lig_-_Metro_Techno_Mix_Oct_2010/"><![CDATA[Fabrice Lig - Metro Techno Mix, Oct 2010]]></source>
+	<description><![CDATA[Soul Designer !! <br />Lovely mix from Fabrice Lig. ]]></description>
+	<pubDate>Fri, 22 Oct 2010 14:10:29 -0400</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/Fabrice_Lig_-_Metro_Techno_Mix_Oct_2010/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Aroy Dee @ Delsin Radio, RBMA, 05.08.2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/Aroy_Dee__Delsin_Radio_RBMA_05082010/</link>
+	<source url="http://www.detroitinstitute.org/techno/Aroy_Dee__Delsin_Radio_RBMA_05082010/"><![CDATA[Aroy Dee @ Delsin Radio, RBMA, 05.08.2010]]></source>
+	<description><![CDATA[Download.  1 hr mix. ]]></description>
+	<pubDate>Tue, 10 Aug 2010 14:53:29 -0400</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/Aroy_Dee__Delsin_Radio_RBMA_05082010/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Claude Young (Ambient/Downtempo Mix) - Plasmodium Radio, 06.07.2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/Claude_Young_AmbientDowntempo_Mix_-_Plasmodium_Radio_06072010/</link>
+	<source url="http://www.detroitinstitute.org/techno/Claude_Young_AmbientDowntempo_Mix_-_Plasmodium_Radio_06072010/"><![CDATA[Claude Young (Ambient/Downtempo Mix) - Plasmodium Radio, 06.07.2010]]></source>
+	<description><![CDATA[72 min set from Claude Young.  Wicked downtempo and ambient tracks excellently put together. ]]></description>
+	<pubDate>Mon, 19 Jul 2010 18:10:00 -0400</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>5</votes>
+	<guid>http://www.detroitinstitute.org/techno/Claude_Young_AmbientDowntempo_Mix_-_Plasmodium_Radio_06072010/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Afrika Bambaataa Live @ ferry Maat Soul Show, 1983]]></title>
+	<link>http://www.detroitinstitute.org/techno/Afrika_Bambaataa_Live__ferry_Maat_Soul_Show_1983/</link>
+	<source url="http://www.detroitinstitute.org/techno/Afrika_Bambaataa_Live__ferry_Maat_Soul_Show_1983/"><![CDATA[Afrika Bambaataa Live @ ferry Maat Soul Show, 1983]]></source>
+	<description><![CDATA[Only 16 minutes, but what a great 16 minutes. Enjoy ]]></description>
+	<pubDate>Wed, 14 Jul 2010 16:25:19 -0400</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/Afrika_Bambaataa_Live__ferry_Maat_Soul_Show_1983/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Mark Broom - Clubbing Spain Exclussive mix, 13.07.2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/Mark_Broom_-_Clubbing_Spain_Exclussive_mix_13072010/</link>
+	<source url="http://www.detroitinstitute.org/techno/Mark_Broom_-_Clubbing_Spain_Exclussive_mix_13072010/"><![CDATA[Mark Broom - Clubbing Spain Exclussive mix, 13.07.2010]]></source>
+	<description><![CDATA[1 hr mix, 128 kbps, 53 mb, download ]]></description>
+	<pubDate>Wed, 14 Jul 2010 16:00:01 -0400</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Mark_Broom_-_Clubbing_Spain_Exclussive_mix_13072010/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Anja Schneider @ Hi Five Mobilee Boat Party, Sonar, 17.06.2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/Anja_Schneider__Hi_Five_Mobilee_Boat_Party_Sonar_17062010/</link>
+	<source url="http://www.detroitinstitute.org/techno/Anja_Schneider__Hi_Five_Mobilee_Boat_Party_Sonar_17062010/"><![CDATA[Anja Schneider @ Hi Five Mobilee Boat Party, Sonar, 17.06.2010]]></source>
+	<description><![CDATA[Deep techy mix from Anja Schneider, 1 hr 50 mins. ]]></description>
+	<pubDate>Wed, 07 Jul 2010 18:38:14 -0400</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Anja_Schneider__Hi_Five_Mobilee_Boat_Party_Sonar_17062010/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Ricardo Villalobos @ Life Festival, Ireland, 04.06.2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/Ricardo_Villalobos__Life_Festival_Ireland_04062010/</link>
+	<source url="http://www.detroitinstitute.org/techno/Ricardo_Villalobos__Life_Festival_Ireland_04062010/"><![CDATA[Ricardo Villalobos @ Life Festival, Ireland, 04.06.2010]]></source>
+	<description><![CDATA[Ricardo Villalobos @ Life Festival, Ireland, 04.06.2010.<br />Download - 1 hr long mix.  Hope you enjoy it. ]]></description>
+	<pubDate>Wed, 07 Jul 2010 13:05:11 -0400</pubDate>
+	<author>Iggie</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/Ricardo_Villalobos__Life_Festival_Ireland_04062010/</guid>
+</item>
+
+</channel>
+</rss>

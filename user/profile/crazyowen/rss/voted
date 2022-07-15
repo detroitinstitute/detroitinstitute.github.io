@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / crazyowen / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 19 Nov 2007 21:29:07 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Underground Resistance vs Plus 8 mix from Placid]]></title>
+	<link>http://www.detroitinstitute.org/techno/Underground_Resistance_vs_Plus_8_mix_from_Placid/</link>
+	<source url="http://www.detroitinstitute.org/techno/Underground_Resistance_vs_Plus_8_mix_from_Placid/"><![CDATA[Underground Resistance vs Plus 8 mix from Placid]]></source>
+	<description><![CDATA[Underground Resistance vs Plus 8 mix from Placid <br /><br />Tracklisting:<br />UR <br />Plus 8 <br />UR <br />Plus 8 <br />UR <br />Plus 8 <br />UR <br />Plus 8 <br />UR <br />Plus 8 <br />UR <br />Plus 8 <br />UR <br />Plus 8 <br />UR <br />Plus 8 <br />UR <br />Plus 8 <br />UR <br />Plus 8<br /><br /><a href="http://waxdj.com/download.php?band_id=5193&song_id=16605&mode=song_hifi">Download mp3</a> ]]></description>
+	<pubDate>Mon, 19 Nov 2007 22:29:07 -0500</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Underground_Resistance_vs_Plus_8_mix_from_Placid/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Placid's latest acid podcast mix entitled]]></title>
+	<link>http://www.detroitinstitute.org/techno/Placids_latest_acid_podcast_mix_entitled-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Placids_latest_acid_podcast_mix_entitled-1/"><![CDATA[Placid's latest acid podcast mix entitled]]></source>
+	<description><![CDATA[Placid's latest acid podcast mix entitled "Detroit Luv" -- with all his favorite Theo Parrish and Kenny Dixon Jr.<br /><br /><a href="http://www.acidmixes.com/podcast5.mp3">Download mp3</a> [caution: the link goes up and down]<br /><a href="http://lukemcgrath.com/mixes/Placid-Detroi%20Luv%20(podcast5).mp3">Download mp3</a><br /><br />Track list:<br /><br />Jill Scott - SLowly Surely - TP remix<br />Moodyman - Black Mahogany<br />Kenny Dixon Jr. - Should've Known<br />3 Chairs - Three Chairs 2<br />T.O.M. Project - Renaissance<br />DJ Genesis / Omar-S - Tribute To Betty "Tonight" / U<br />Roberta Sweed - Runaway<br />Convextion - miranda<br />Moodymann - I cant kick this morning when it hits<br />Rick Wilhite - Godson ep<br />Jerry the cat - SS24<br />Moodyman - LT2<br />KDj 14<br />Moodymann - Sweet yesterday<br />The Detox EP<br />Andre Lodeman - E movement<br />Godson - Soul Edge 2<br />Theo Parrish - Solitary Flight<br />3 chairs - Blackbone Waltz<br />Octave one - epilogue ]]></description>
+	<pubDate>Wed, 09 May 2007 12:01:46 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>17</votes>
+	<guid>http://www.detroitinstitute.org/techno/Placids_latest_acid_podcast_mix_entitled-1/</guid>
+</item>
+
+</channel>
+</rss>

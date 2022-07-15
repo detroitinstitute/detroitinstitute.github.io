@@ -1,0 +1,62 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / groovecorporation / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sat, 13 Feb 2010 16:23:41 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Robert Heyaime-Chimera]]></title>
+	<link>http://www.detroitinstitute.org/techno/Robert_Heyaime-Chimera/</link>
+	<source url="http://www.detroitinstitute.org/techno/Robert_Heyaime-Chimera/"><![CDATA[Robert Heyaime-Chimera]]></source>
+	<description><![CDATA[Robert Heyaime-Chimera (mix recorded for phantomdeck website a collective base in dominican republic of which he is part of it.<br /><br />http://www.megaupload.com/?d=8LJQR7QU<br /><br />http://www.sendspace.com/file/1bpko2 ]]></description>
+	<pubDate>Sat, 13 Feb 2010 17:23:41 -0500</pubDate>
+	<author>groovecorporation</author>
+	<category>techno</category>
+	<votes>20</votes>
+	<guid>http://www.detroitinstitute.org/techno/Robert_Heyaime-Chimera/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Robert Heyaime-NUMB]]></title>
+	<link>http://www.detroitinstitute.org/techno/Robert_Heyaime-NUMB/</link>
+	<source url="http://www.detroitinstitute.org/techno/Robert_Heyaime-NUMB/"><![CDATA[Robert Heyaime-NUMB]]></source>
+	<description><![CDATA[Robert Heyaime-NUMB<br />new promo mix from Robert Heyaime ]]></description>
+	<pubDate>Thu, 12 Nov 2009 20:04:57 -0500</pubDate>
+	<author>groovecorporation</author>
+	<category>techno</category>
+	<votes>15</votes>
+	<guid>http://www.detroitinstitute.org/techno/Robert_Heyaime-NUMB/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Robert Heyaime-PhantomDeck MODE]]></title>
+	<link>http://www.detroitinstitute.org/techno/Robert_Heyaime-PhantomDeck_MODE/</link>
+	<source url="http://www.detroitinstitute.org/techno/Robert_Heyaime-PhantomDeck_MODE/"><![CDATA[Robert Heyaime-PhantomDeck MODE]]></source>
+	<description><![CDATA[you already know about this guy and how he is doing his job..PRETTY GOOD..here is some more music for you guys to enjoy....<br /><br /><br />http://www.megaupload.com/?d=ZGXENYK3<br /><br />http://www.sendspace.com/file/hsfynv ]]></description>
+	<pubDate>Sun, 02 Nov 2008 20:31:25 -0500</pubDate>
+	<author>groovecorporation</author>
+	<category>techno</category>
+	<votes>17</votes>
+	<guid>http://www.detroitinstitute.org/techno/Robert_Heyaime-PhantomDeck_MODE/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Robert Heyaime-A Night In Dubai]]></title>
+	<link>http://www.detroitinstitute.org/techno/Robert_Heyaime-_Night_In_Dubai/</link>
+	<source url="http://www.detroitinstitute.org/techno/Robert_Heyaime-_Night_In_Dubai/"><![CDATA[Robert Heyaime-A Night In Dubai]]></source>
+	<description><![CDATA[A great music set by Robert Heyaime one of the fresh new talents on the techno scene here this is called A Night In Dubai,enjoy....<br /><br />http://www.megaupload.com/?d=M4ASYIAF<br /><br /><br />http://www.sendspace.com/file/7cgy5n ]]></description>
+	<pubDate>Mon, 14 Jul 2008 08:09:17 -0400</pubDate>
+	<author>groovecorporation</author>
+	<category>techno</category>
+	<votes>30</votes>
+	<guid>http://www.detroitinstitute.org/techno/Robert_Heyaime-_Night_In_Dubai/</guid>
+</item>
+
+</channel>
+</rss>

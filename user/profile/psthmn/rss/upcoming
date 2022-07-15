@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / psthmn / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sat, 15 Jan 2011 10:37:53 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Technopodcast.com #24 - Posthuman]]></title>
+	<link>http://www.detroitinstitute.org/techno/Technopodcastcom_24_-_Posthuman-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Technopodcastcom_24_-_Posthuman-1/"><![CDATA[Technopodcast.com #24 - Posthuman]]></source>
+	<description><![CDATA[<img src="http://i1.soundcloud.com/avatars-000000583671-y3bxqb-crop.jpg"><br /><br />Latest technopodcast.com #24 mix by Posthuman, featuring tracks from Planetary Assault Systems, Ben Sims, The Third Man, Inigo Kennedy, Matador, Anodyne & more.<br /><br />Download mp3 here: <a href="http://soundcloud.com/technopodcast/technopodcastdotcom-024-posthuman/download" target="_blank">soundcloud.com</a><br />Stream here: <a href="http://www.technopodcast.com/blog/?p=3053" target="_blank">technopodcast.com</a> ]]></description>
+	<pubDate>Sat, 15 Jan 2011 11:37:53 -0500</pubDate>
+	<author>psthmn</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/Technopodcastcom_24_-_Posthuman-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Posthuman - East Coast Mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/Posthuman_-_East_Coast_Mix-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Posthuman_-_East_Coast_Mix-1/"><![CDATA[Posthuman - East Coast Mix]]></source>
+	<description><![CDATA[<img src="http://mntothat.com/MN2THAT_LOGO.png"><br /><br />Posthuman "East Coast" mix on MNtothat.com<br /><br />Features tracks from Capracara, Chris Liebing, Erphun, Virgil Enzinger, Bok Bok, Hrdvsion, Antoni Maiovvi, & more ]]></description>
+	<pubDate>Tue, 14 Sep 2010 04:23:43 -0400</pubDate>
+	<author>psthmn</author>
+	<category>techno</category>
+	<votes>5</votes>
+	<guid>http://www.detroitinstitute.org/techno/Posthuman_-_East_Coast_Mix-1/</guid>
+</item>
+
+</channel>
+</rss>

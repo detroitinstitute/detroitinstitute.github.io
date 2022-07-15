@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / chordz / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 26 Sep 2011 06:29:53 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Juan Atkins @ LWE Podcast 99 - 26 -08-2011]]></title>
+	<link>http://www.detroitinstitute.org/techno/juan-atkins-lwe-podcast-99-26-08-2011-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/juan-atkins-lwe-podcast-99-26-08-2011-1/"><![CDATA[Juan Atkins @ LWE Podcast 99 - 26 -08-2011]]></source>
+	<description><![CDATA[<img src="http://img851.imageshack.us/img851/4283/podcast991.jpg" alt="Free Image Hosting at www.ImageShack.us" border="0"/></a><br /><br /><br /><b>Tracklist:</b><br />01. Wehbba, "The Speech" (Samuel L. Session Remix) [Tronic]<br />02. Trevor Loveys, "Stay In Love" [Jack Union Records]<br />03. Lee Burridge, "Here's Johnny" [Leftroom]<br />04. Smash TV, "World Wide Wet" [Leena Music]<br />05. John Selway, "Interplanetary Express" [Tronic]<br />06. Derek Plaslaiko, "Raw Jam" (Jonas Kopp Remix) [Perc Trax]<br />07. Room 10, "RM07.1″ (Pattrix Phiorio Remix) [Retrometro]<br />08. Marco Effe, "Zenheiser" [Break New Soil]<br />09. Carl Craig, "DJ-Kicks (The Track)" [Studio !K7]<br />10. Shlomi Aber, "Tap Order" [Ovum Recordings]<br />11. Internullo, "Taifas" (Alex Celler Dub) [Yellow Tail]<br />12. Shlomi Aber & DJ Sneak, "After Touch" (DJ Sneak Version) [Be As One]<br />13. Solid Gold Playaz, "Next Faze Of The Game" [Real Estate Records]<br />14. Skeet, "Come Back Raw" [Monaberry]<br /><br /><a href="http://www.littlewhiteearbuds.com/tracks/2011/LWEPodcast99JuanAtkins.mp3">DOWNLOAD RIGHT CLICK</a><br /><br /> ]]></description>
+	<pubDate>Mon, 26 Sep 2011 06:29:53 -0400</pubDate>
+	<author>chordz</author>
+	<category>techno</category>
+	<votes>12</votes>
+	<guid>http://www.detroitinstitute.org/techno/juan-atkins-lwe-podcast-99-26-08-2011-1/</guid>
+</item>
+
+</channel>
+</rss>

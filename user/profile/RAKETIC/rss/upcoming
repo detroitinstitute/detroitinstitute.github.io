@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / RAKETIC / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 09 Feb 2009 14:09:27 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Raketic - Mix @ Bigz 08.02.2009.]]></title>
+	<link>http://www.detroitinstitute.org/techno/Raketic_-_Mix__Bigz_08022009-2/</link>
+	<source url="http://www.detroitinstitute.org/techno/Raketic_-_Mix__Bigz_08022009-2/"><![CDATA[Raketic - Mix @ Bigz 08.02.2009.]]></source>
+	<description><![CDATA[Tracklist:<br /><br />1.  Wavescape - Silicon Jazz<br />2.  Atjazz - Looking Glass (Original mix)<br />3.  Corrugated Tunnel - Distant Sounds<br />4.  Ame & Henrik Schwarz & Dixon - D.P.O.M.B.<br />5.  Delano Smith - Trans<br />6.  Stefan Goldmann - M Song (Original mix)<br />7.  Dj Q - Blue Chicago<br />8.  Kenny Larkin - Wake Me<br />9.  Jimpster - Dangly Panther (Original mix)<br />10. Qbical - Looped Ride<br />11. Morgan Geist - Detroit (C2 remix 1)<br />12. Sebbo - Watamu Beach<br />13. Terry Lee Brown Junior - Delightful Encounter (Terry's Deeplightful Edit)<br />14. Der Dritte Raum - Swing Bop (Side B)<br /><br />http://rapidshare.com/files/196022125/Raketic_-_Mix___Bigz_08.02.2009..mp3.html ]]></description>
+	<pubDate>Mon, 09 Feb 2009 15:09:27 -0500</pubDate>
+	<author>RAKETIC</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/Raketic_-_Mix__Bigz_08022009-2/</guid>
+</item>
+
+</channel>
+</rss>

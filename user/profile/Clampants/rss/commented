@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Clampants / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 12 Dec 2007 11:09:04 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Foundsound - Free EP - Unfoundsound 34 - Various Artists - Melbourne Macropus ep]]></title>
+	<link>http://www.detroitinstitute.org/techno/Foundsound_-_Free_EP_-_Unfoundsound_34_-_Various_Artists_-_Melbourne_Macropus_ep/</link>
+	<source url="http://www.detroitinstitute.org/techno/Foundsound_-_Free_EP_-_Unfoundsound_34_-_Various_Artists_-_Melbourne_Macropus_ep/"><![CDATA[Foundsound - Free EP - Unfoundsound 34 - Various Artists - Melbourne Macropus ep]]></source>
+	<description><![CDATA[<b>Unfoundsound 34 - Various Artists - Melbourne Macropus ep</b><br /><br />"first it was buenos aires. then it was marseille. this time, unfoundsound adds a third chapter to the "location series" with melbourne macropus ep â€" a compilation of artists hailing from melbourne, australia. the idea transpired while sean oâ€™neal (a.k.a. someone else) was touring around australia in june/july 2007. sean quickly discovered that australia â€" particularly melbourne â€" has an intelligent and thriving underground techno scene that is deeply on the rise. and because the melbourne scene is tight-knit and intimate, the cityâ€™s dope output of minimal goodness seems to be fairly unknown in other parts of the world. but much of melbourneâ€™s bomb-ass techno certainly deserves worldwide awareness. thus, unfoundsound presents six tracks of druggy, groovy, head-numbing chooons courtesy of markojux, stuart mckeown, lance harrison, paul agius and craig mcwhinney. yeah, y'all! aussie folk in da house!"<br /><br />01. paul agius - 3 steamed dim sims<br />02. stuart mckeown - booze bus<br />03. markojux - monotreme<br />04. lance harrison - vegemite on toast<br />05. markojux & stuart mckeown - uluroo<br />06. craig mcwhinney - gold rush<br /><br /><a href="http://foundsoundrecords.com/unreleases/getarchive.php?file=unfound34/unfound34_320kb_mp3.zip">Download EP in MP3</a>...<br /><a href="http://www.unfoundsoundrecords.com/unreleases/getarchive.php?file=unfound34/unfound34_flac.zip">Download EP in FLAC</a>... ]]></description>
+	<pubDate>Wed, 12 Dec 2007 12:09:04 -0500</pubDate>
+	<author>Clampants</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Foundsound_-_Free_EP_-_Unfoundsound_34_-_Various_Artists_-_Melbourne_Macropus_ep/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Warbcast 11/07]]></title>
+	<link>http://www.detroitinstitute.org/techno/Warbcast_1107/</link>
+	<source url="http://www.detroitinstitute.org/techno/Warbcast_1107/"><![CDATA[Warbcast 11/07]]></source>
+	<description><![CDATA[Warbcast 11/07 (feat. popof, houle, boratto)<br />Another short Warbcast mix from Warbgasm.  From Influenza to Super Flu. <br /><br />Tracklist:<br />Warbgasm - Influenza [Unsigned]<br />Popof - My Toyz [Skryptom]<br />Marc Houle - Techno Vocals [Minus]<br />Gui Boratto - Tales From The Lab (Part 1) [Defrag]<br />Super Flu - Momratzn [Traum] <br /><br /><a href="http://www.warbspace.co.uk/warbgasm/mixes/warbcast_1107.mp3">Download mp3</a> ]]></description>
+	<pubDate>Tue, 20 Nov 2007 15:13:43 -0500</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>10</votes>
+	<guid>http://www.detroitinstitute.org/techno/Warbcast_1107/</guid>
+</item>
+
+</channel>
+</rss>

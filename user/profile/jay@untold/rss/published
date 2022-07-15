@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / jay@untold / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 29 Sep 2008 01:34:16 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[uniformed technichian,untold radio mix,]]></title>
+	<link>http://www.detroitinstitute.org/techno/uniformed_technichianuntold_radio_mix/</link>
+	<source url="http://www.detroitinstitute.org/techno/uniformed_technichianuntold_radio_mix/"><![CDATA[uniformed technichian,untold radio mix,]]></source>
+	<description><![CDATA[a 45 minute mix of my take of modern day techno,it contians new and old music from well respected artist from across the globe,scorp,technasia,jeff mills,paul mac,dave clarke,john thomas,despite the five minute intro this mix is certianly one for the dancefloor,                                                                                                              LISTERN TO MY MIX HERE            http://www.esnips.com/doc/e7464da9-14f8-41f2-9cd4-d331eb1581ca/untold-radio-mix     OR YOU CAN DOWNLOAD IT @  http://www.megaupload.com/?d=V63PXMK8 ]]></description>
+	<pubDate>Mon, 29 Sep 2008 01:34:16 -0400</pubDate>
+	<author>jay@untold</author>
+	<category>techno</category>
+	<votes>13</votes>
+	<guid>http://www.detroitinstitute.org/techno/uniformed_technichianuntold_radio_mix/</guid>
+</item>
+
+</channel>
+</rss>

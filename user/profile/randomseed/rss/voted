@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / randomseed / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 06 Nov 2007 13:09:32 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Randomseed Live on the Ravers Edge Radio (91.1FM Cleveland)]]></title>
+	<link>http://www.detroitinstitute.org/techno/Randomseed_Live_on__Ravers_Edge_Radio_911FM_Cleveland/</link>
+	<source url="http://www.detroitinstitute.org/techno/Randomseed_Live_on__Ravers_Edge_Radio_911FM_Cleveland/"><![CDATA[Randomseed Live on the Ravers Edge Radio (91.1FM Cleveland)]]></source>
+	<description><![CDATA[Randomseed (Founder of Tek-Know records) Live on Ravers Edge Radio (91.1FM WRUW Cleveland) on October 6th 2007 ]]></description>
+	<pubDate>Tue, 06 Nov 2007 14:09:32 -0500</pubDate>
+	<author>randomseed</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/Randomseed_Live_on__Ravers_Edge_Radio_911FM_Cleveland/</guid>
+</item>
+
+</channel>
+</rss>

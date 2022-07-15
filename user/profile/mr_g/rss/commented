@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / mr_g / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 06 May 2007 14:02:25 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Reuben Keeney]]></title>
+	<link>http://www.detroitinstitute.org/techno/Reuben_Keeney/</link>
+	<source url="http://www.detroitinstitute.org/techno/Reuben_Keeney/"><![CDATA[Reuben Keeney]]></source>
+	<description><![CDATA[Reuben Keeney - 2 Hour Minimal / Tech House / Electro mix<br /><br /><a href="http://www.reubenkeeney.com/music/Reuben%20Keeney%20-%202%20Hour%20May%20Mix%20160kps.mp3">Download mp3</a><br /><br />Total time 2:04:23<br /><br />Track list:<br /><br />01.Alex Bartsch - Dark<br />02.Oliver Huntemann - Sao Paulo<br />03.Stephen Bodzin - Mondfahrt<br />04.Tube and Berger - The young and the wild ones<br />05.Kaliber - 12.1<br />06.Alexkid - Love Letters (Marc Romboy remix)<br />07.Rekorder - 8.1<br />08.Stephen Bodzin - Planet Ypilson<br />09.Gui Boratto - Gate 7<br />10.Elektrochemie - Mucky Star (Instrumental)<br />11.Delon & Dalcan - Freak<br />12.Pig & Dan - Blobz<br />13.Kevin Gorman - Dirt Machine<br />14.Luetzenkirchen - Dragunov<br />15.Acquaviva - Bungee<br />16.Quenten De Rozario - Peters Gun (Afrojack Funk Me Remix)<br />17.Alex Keniji - Saumaraui<br />18.Nikolai Stepan - White (Imitation Mix)<br />19.Roman Curtis - The Box<br />20.Chris Lake - Carry me away (Micky Slim remix)<br />21.Umek - Posing as me<br />22.Christian Hoff - Judder Moth (Unreleased)<br />23.Cesco - Slut Machine<br />24.Dusty Kid - The Riot ]]></description>
+	<pubDate>Sun, 06 May 2007 14:02:25 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Reuben_Keeney/</guid>
+</item>
+
+</channel>
+</rss>

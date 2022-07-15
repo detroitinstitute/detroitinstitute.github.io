@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / mik / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 23 Mar 2010 10:58:31 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Mik - Konnyu es finom]]></title>
+	<link>http://www.detroitinstitute.org/techno/Mik_-_Konnyu_es_finom/</link>
+	<source url="http://www.detroitinstitute.org/techno/Mik_-_Konnyu_es_finom/"><![CDATA[Mik - Konnyu es finom]]></source>
+	<description><![CDATA[<b>2008 mnml</b><br /><br /><a href="http://uploaded.to/file/9x8t26">Download Uploaded ]]></description>
+	<pubDate>Tue, 23 Mar 2010 10:58:31 -0400</pubDate>
+	<author>mik</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Mik_-_Konnyu_es_finom/</guid>
+</item>
+
+</channel>
+</rss>

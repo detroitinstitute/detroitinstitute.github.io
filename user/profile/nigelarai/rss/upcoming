@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / nigelarai / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 18 Apr 2008 14:04:22 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[In The Deep]]></title>
+	<link>http://www.detroitinstitute.org/news/In__Deep/</link>
+	<source url="http://www.detroitinstitute.org/news/In__Deep/"><![CDATA[In The Deep]]></source>
+	<description><![CDATA[1 of my various sets........<br />hope u like it ]]></description>
+	<pubDate>Fri, 18 Apr 2008 14:04:22 -0400</pubDate>
+	<author>nigelarai</author>
+	<category>news</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/news/In__Deep/</guid>
+</item>
+
+</channel>
+</rss>

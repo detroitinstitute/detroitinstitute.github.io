@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / scotch / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 28 Oct 2009 19:10:47 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[scott rowan live dj set]]></title>
+	<link>http://www.detroitinstitute.org/techno/scott_rowan_live_dj_set/</link>
+	<source url="http://www.detroitinstitute.org/techno/scott_rowan_live_dj_set/"><![CDATA[scott rowan live dj set]]></source>
+	<description><![CDATA[up and coming dj scott rowan rolling out a set in Pivo, edinburgh-check! ]]></description>
+	<pubDate>Wed, 28 Oct 2009 19:10:47 -0400</pubDate>
+	<author>scotch</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/scott_rowan_live_dj_set/</guid>
+</item>
+
+</channel>
+</rss>

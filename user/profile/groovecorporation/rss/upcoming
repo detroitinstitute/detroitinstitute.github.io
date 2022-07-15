@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / groovecorporation / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sat, 01 Mar 2008 22:15:37 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Robert Heyaime-North Bay Session]]></title>
+	<link>http://www.detroitinstitute.org/techno/Robert_Heyaime-North_Bay_Session/</link>
+	<source url="http://www.detroitinstitute.org/techno/Robert_Heyaime-North_Bay_Session/"><![CDATA[Robert Heyaime-North Bay Session]]></source>
+	<description><![CDATA[here is a live session from robert heyaime who now goes with a mix of the most sexy and finest house....enjoy........... ]]></description>
+	<pubDate>Sat, 01 Mar 2008 23:15:37 -0500</pubDate>
+	<author>groovecorporation</author>
+	<category>techno</category>
+	<votes>10</votes>
+	<guid>http://www.detroitinstitute.org/techno/Robert_Heyaime-North_Bay_Session/</guid>
+</item>
+
+</channel>
+</rss>

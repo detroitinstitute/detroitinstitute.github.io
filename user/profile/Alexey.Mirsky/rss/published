@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Alexey.Mirsky / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 24 Feb 2009 11:53:16 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Alexey Mirsky - Halloween in Newark]]></title>
+	<link>http://www.detroitinstitute.org/techno/Alexey_Mirsky_-_Halloween_in_Newark/</link>
+	<source url="http://www.detroitinstitute.org/techno/Alexey_Mirsky_-_Halloween_in_Newark/"><![CDATA[Alexey Mirsky - Halloween in Newark]]></source>
+	<description><![CDATA[Late night DJ set I played at a Halloween party in Newark, NJ.<br /><br /><a href="http://www.mediafire.com/download.php?zyzthmil4z2">Direct download link</a><br /><br />Tracklist<br />1. Slam - Stacatto Rave - Silicone Soul remix<br />2. 2's Company - Da Bleep<br />3. Jesse Rose - Didn't I - Audion remix<br />4. Fabio Gianelli - Billiard Room<br />5. Ecco & Justin Side - Superficial K - Ryan Crosson's Backyard Remix<br />6. Ambivalent - R U OK<br />7. Tony Rohr - Hang on tight<br />8. Len Faki - Here - Len's Podium remix<br />9. Zimmerman - Dawning Voice (original version by Tanja)<br />10. Bloody Mary - Emma Part II<br />11. Agaric - Smoker<br />12. Fabio Gianelli - Vom Rennen<br />13. Tony Rohr - Sweep the leg<br />14. Bloody Mary - Apparence<br />15. Miro Pajic - Data Devils - Selway Remix ]]></description>
+	<pubDate>Tue, 24 Feb 2009 12:53:16 -0500</pubDate>
+	<author>Alexey.Mirsky</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/Alexey_Mirsky_-_Halloween_in_Newark/</guid>
+</item>
+
+</channel>
+</rss>

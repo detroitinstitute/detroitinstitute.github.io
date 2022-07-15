@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Clampants / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 18 Nov 2007 03:38:39 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Laurent Garnier on Tim Sweeney's Beats in Space]]></title>
+	<link>http://www.detroitinstitute.org/techno/Laurent_Garnier_on_Tim_Sweeneys_Beats_in_Space-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Laurent_Garnier_on_Tim_Sweeneys_Beats_in_Space-1/"><![CDATA[Laurent Garnier on Tim Sweeney's Beats in Space]]></source>
+	<description><![CDATA[Laurent Garnier made an appearance on Tim Sweeney's latest Beats in Space show (11/16/07)...a more belaric and abstract selection, but brilliant nonetheless:<br /><br />Nov. 13th (part 1 with <a href="http://www.laurentgarnier.com" target="_blank">Laurent Garnier</a>) :: <a href="http://www.beatsinspace.net/audio/2007/nov13/bis111307part1.m3u"> [stream]</a>  <a href="http://www.beatsinspace.net/audio/2007/nov13/bis111307part1.mp3"> [download]</a><br />Nov. 13th (part 2 with Laurent Garnier &amp; Tim S) :: <a href="http://www.beatsinspace.net/audio/2007/nov13/bis111307part2.m3u"> [stream]</a>  <a href="http://www.beatsinspace.net/audio/2007/nov13/bis111307part2.mp3"> [download]</a> ]]></description>
+	<pubDate>Sun, 18 Nov 2007 04:38:39 -0500</pubDate>
+	<author>Clampants</author>
+	<category>techno</category>
+	<votes>10</votes>
+	<guid>http://www.detroitinstitute.org/techno/Laurent_Garnier_on_Tim_Sweeneys_Beats_in_Space-1/</guid>
+</item>
+
+</channel>
+</rss>

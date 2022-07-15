@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / t614 / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 27 Apr 2007 16:53:49 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[MIA Electronation]]></title>
+	<link>http://www.detroitinstitute.org/techno/MIA_Electronation-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/MIA_Electronation-1/"><![CDATA[MIA Electronation]]></source>
+	<description><![CDATA[<a href="http://www.detroitinstitute.org/techno/M-I---at-Studio-88/">As usual</a>, excellent minimal techno from <a href="http://www.detroitinstitute.org/techno/Troy-Pierce-Mia-at-Studio-88-1/">M.I.A.</a>  It's a shame it so short.<br /><br /><a href="http://www.mediafire.com/?4jn5mynmyym">Download mp3 from mediafire</a><br /><br />Total time 46:52 ]]></description>
+	<pubDate>Fri, 27 Apr 2007 16:53:49 -0400</pubDate>
+	<author>t614</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/MIA_Electronation-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[The Vault 4/4]]></title>
+	<link>http://www.detroitinstitute.org/techno/Vault_44/</link>
+	<source url="http://www.detroitinstitute.org/techno/Vault_44/"><![CDATA[The Vault 4/4]]></source>
+	<description><![CDATA[Recorded April 4 on <a href="http://www.antonbanks.com/index2.htm">Anton Bank's radio show the Vault</a>, this set has a lot of new techno, promos, and a fair amount of Japanese and minimal techno.  There is some discussion of the music at the beginning of the show.<br /><br /><a href="http://www.antonbanks.com/audio/the_vault_04-04-07.mp3">Download mp3</a><br /><br />Total time 1:26:27<br /><br />Playlist:<br /><br />Extrawelt, Patrick Zigon Rmx, Gdoch Doch, Traum<br />Riley Reinhold, Light In My Eyes, Light In My Eyes, My Best Friend Ltd<br />Todd Sines, Multiplexor, 7th City<br />Aquilina & Venturi, Disco Bus, 3 Hours, Trapez<br />Martin Eyer & Oliver Klein, Tiflis, My Best Friend<br /><br />Baby Ford & Eon, Dead Eye, Plus 8<br />Frankie Bones, House Of God Remix, Profile Produce, The Last Label<br />Dj Misjah, Numphia, X-Trax<br />Joel Mull, During Sleep, Episodes Of Intense Meaning, Inside<br />Takaaki Itoh, How Brilliant You Hate Me, E-World, Disclosure<br />Neil Landstrumm, Gigolos Trapped In Retro Hell, Pro Audio, Tresor<br />Go Hiyama, Transcendency, Realization EP, AR<br />Re:Group, Left, Infrastructure<br />Green Velvet, Surgeon Rmx, Abduction Remixes, Music Man<br />Joey Beltram (Jb3), Luke Slater's Filtered Rmx, Forklift, Novamute<br />Takaaki Itoh, Taurus Woman, How The F**K Can I Relax, Sheep<br />Steve Bicknell, Karakter Rmx, How Can We Know? Redefined, Lost<br />Fumiya Tanaka, In The Darkness, Unknown Possibility Vol.1, Torema<br />OR, Duncan Idaho, Reverse<br />Rue East, Birmingham (Ben Sims Hardgroove Mix), Pureplastic<br />Mark Williams, A Djs Groove, Adventures Of Flux Vol 1, Flux<br />Cari Lekebusch, Return, Enter The Dragon, H.Prod<br />Paul Mac, Untitled A, Vol. 9, C-Side<br />Trolley Route, A Occhi Chiusi (Sterac Rmx), Pureplastic<br /><br />Recloose, Four Ways Of Saying Goodbye, Spelunking, Planet-E ]]></description>
+	<pubDate>Fri, 27 Apr 2007 16:48:27 -0400</pubDate>
+	<author>t614</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Vault_44/</guid>
+</item>
+
+</channel>
+</rss>

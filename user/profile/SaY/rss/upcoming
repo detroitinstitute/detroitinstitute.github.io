@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / SaY / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sat, 10 Dec 2011 17:25:44 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[EMIVITA TECHNO RULES]]></title>
+	<link>http://www.detroitinstitute.org/techno/emivita-techno-rules/</link>
+	<source url="http://www.detroitinstitute.org/techno/emivita-techno-rules/"><![CDATA[EMIVITA TECHNO RULES]]></source>
+	<description><![CDATA[This is techno...  ]]></description>
+	<pubDate>Sat, 10 Dec 2011 18:25:44 -0500</pubDate>
+	<author>SaY</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/emivita-techno-rules/</guid>
+</item>
+
+</channel>
+</rss>

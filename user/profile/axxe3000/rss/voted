@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / axxe3000 / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 28 Jun 2013 03:09:31 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Terrence Dixon livest at Metroplex Anniversary Detroit]]></title>
+	<link>http://www.detroitinstitute.org/techno/terrence-dixon-livest-at-metroplex-anniversary-detroit/</link>
+	<source url="http://www.detroitinstitute.org/techno/terrence-dixon-livest-at-metroplex-anniversary-detroit/"><![CDATA[Terrence Dixon livest at Metroplex Anniversary Detroit]]></source>
+	<description><![CDATA[<img src="http://3.bp.blogspot.com/-MTa_-KfB9CU/UcMlkIMBeLI/AAAAAAAABzg/LYkjAM689qo/s320/terrence-dixon.jpeg" border="0"/></a><br /><br />Juan Atkins- Jazz Is The Teacher<br />The Formula - Mind Storm (Spiritual Vibe)<br />Derrick May - Salsa Life<br />D-Mob - We Call It Acid<br />Ron Cook - FFWD<br />Kevin Saunderson - Funky Funk / Bassline<br />Shop - Surreal (Carl Craig)<br />Polartronics - The Deep<br />Claude Young (Project 625) - Mood Swing EP<br />Reese & Santonio - Forcefield<br />Ontoni - Badd Minded<br />A Guy Called Gerald - Automanikk (Derrick May Mix)<br />Frequency (3) vs Juan Atkins - Industrial Metal / Kiss The Sky<br />Low Res - Amuk<br />Suburban Knight - Nocturbulous EP<br />Carl Craig (Psyche) - From Beyond<br />Kevin Saunderson - Forces<br />Chip E - Time To Jack?<br />Rob Hood?<br />H&M - Drama EP (Hood & Mills)<br /> ]]></description>
+	<pubDate>Fri, 28 Jun 2013 03:09:31 -0400</pubDate>
+	<author>chordminor</author>
+	<category>techno</category>
+	<votes>11</votes>
+	<guid>http://www.detroitinstitute.org/techno/terrence-dixon-livest-at-metroplex-anniversary-detroit/</guid>
+</item>
+
+</channel>
+</rss>

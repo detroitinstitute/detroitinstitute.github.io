@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / briansSabbeth / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 18 May 2010 16:51:14 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Sol Om On  mixtape]]></title>
+	<link>http://www.detroitinstitute.org/techno/Sol_Om_On__mixtape-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Sol_Om_On__mixtape-1/"><![CDATA[Sol Om On  mixtape]]></source>
+	<description><![CDATA[Here's a mixtape I made a few weeks ago.  Free download on  the link. Trax by adam beyer, speedyj, j.aquaviva, edit select, mark broom, dustin zahn, chris leibing, dbx, tony rohr, and more.  For details just e-mail me...Cheers<br /><br /><a href="http://soundcloud.com/brianjsabbeth/sol-om-on/download">DOWNLOAD SOUNDCLOUD ]]></description>
+	<pubDate>Tue, 18 May 2010 16:51:14 -0400</pubDate>
+	<author>briansSabbeth</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/Sol_Om_On__mixtape-1/</guid>
+</item>
+
+</channel>
+</rss>

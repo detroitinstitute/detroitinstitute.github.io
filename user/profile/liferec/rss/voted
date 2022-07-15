@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / liferec / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 26 Sep 2010 13:17:32 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Life Recorder "Medicine beats" dj mix - sept 2010]]></title>
+	<link>http://www.detroitinstitute.org/techno/Life_Recorder_Medicine_beats_dj_mix_-_sept_2010-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Life_Recorder_Medicine_beats_dj_mix_-_sept_2010-1/"><![CDATA[Life Recorder "Medicine beats" dj mix - sept 2010]]></source>
+	<description><![CDATA[Life Recorder also known as Kriss Kortz is a french dj/producer. Discovering Electronic music during the early 90â€™ies, his main influences have always been the deep sounds of Detroit, Chicago or Berlin. Since 2005 he released a few tracks and remixes on several international labels like Code 316 Rec (fr), Snapshot Records (uk), Itinerant Records (Au), Soleil Records (Pol) or Fountain Music (Jap).<br /><br />dj mix recorded on sept 2010.<br /><br />1 - Brett Dancer_Motion Sensor_Track Mode<br />2 - Delano Smith_The Explanation_Third Ear<br />3 - Scope_Frequencies_Nrk<br />4 - Skudge_Convolution_Skudge<br />5 - Argy_ Thick & Tin_Ibadan<br />6 - Black Jazz Chronicles_Straight up_Nuphonic<br />7 - Tony Lionni_Mamadu_Wave<br />8 - Samuel l Sessions_Clear as a Day_Be as One<br />9 - Robert Hood_Who Taught you Math (Shonky in the<br />Hood)_Freak n' Chic<br />10 - Roberto Bosco_One_Figure spc<br />11 - Shlomi Aber_Groove Mechanism_Ovum<br />12 - The Black Dog_CCTV Nation (Redshape Analog mix)_Soma<br />13 - Mike Dehnert_Regelschrift_Clone Basement Series<br />14 - Dj Bone_Shut the Lites Off_Metroplex<br />15 - Yasuo Sato_The 36th Scene_Logos<br />16 - A Guy Called Gerald_Pacific Samba_Laboratory Instinct<br />17 - Transformer 2_Pacific Symphony_Sonic Records ]]></description>
+	<pubDate>Sun, 26 Sep 2010 13:17:32 -0400</pubDate>
+	<author>liferec</author>
+	<category>techno</category>
+	<votes>16</votes>
+	<guid>http://www.detroitinstitute.org/techno/Life_Recorder_Medicine_beats_dj_mix_-_sept_2010-1/</guid>
+</item>
+
+</channel>
+</rss>

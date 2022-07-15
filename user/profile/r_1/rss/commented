@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / r_1 / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 08 Apr 2010 12:59:10 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[R1 in the miX, Spring time@the Ghetto]]></title>
+	<link>http://www.detroitinstitute.org/techno/R1_in__miX_Spring_time_Ghetto/</link>
+	<source url="http://www.detroitinstitute.org/techno/R1_in__miX_Spring_time_Ghetto/"><![CDATA[R1 in the miX, Spring time@the Ghetto]]></source>
+	<description><![CDATA[This one i recorded last month inspired by the spring, and the good moode it gave me. A lot of great house sound, both old, and new school.<br /><br />R1 in the miX, Spring time@the Ghetto Tracklist:<br /><br />01. Moodymann - Amerika<br />02. Demarkus Lewis - Retrofusion (Original Mix)<br />03. Leonel Castillo - Stone peach<br />04. Marek Hemmann - Gemini/intermixed with Julien Chaptal - Joel Star and Colonel Abrams - Trapped<br />05. Julien Chaptal - Joel Starr<br />06. Nick Curly - Another Tearjerker (Nick Curly 2nd Session)<br />07. Rick Wilhite - Drum pattern and memory (Rick morning service mix)<br />08. Analog People in a Digital World - Vega (Ian Pooley Mix)<br />09. Ian Pooley - What i got feat. Tim Fuller<br />10. Solomun - Hypnotize<br />11. iO - Cabaret<br />12. Luna City Express - Mr Jack (feat Aaron Palmer)<br />13. Mihai Popoviciu & Jay Bliss & Pagal - Michelle<br />14. Rick Wade - Forbiden Jutsu<br />15. Kerri Chandler and Carole Sylvan - I`m ready<br />16. DJ Deep & Julien Jabre - Telescope Mix ]]></description>
+	<pubDate>Thu, 08 Apr 2010 12:59:10 -0400</pubDate>
+	<author>r_1</author>
+	<category>techno</category>
+	<votes>8</votes>
+	<guid>http://www.detroitinstitute.org/techno/R1_in__miX_Spring_time_Ghetto/</guid>
+</item>
+
+</channel>
+</rss>

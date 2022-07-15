@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / G_Paterson / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 26 Jul 2010 07:03:37 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Grant Paterson @ POD CAST 3 : Progressive with a Detroit flavor]]></title>
+	<link>http://www.detroitinstitute.org/techno/Grant_Paterson__POD_CAST_3__Progressive_with__Detroit_flavor/</link>
+	<source url="http://www.detroitinstitute.org/techno/Grant_Paterson__POD_CAST_3__Progressive_with__Detroit_flavor/"><![CDATA[Grant Paterson @ POD CAST 3 : Progressive with a Detroit flavor]]></source>
+	<description><![CDATA[Most recent pod cast from Grant Paterson.<br /><br /><br /><a href="http://edinburghclubs.blogspot.com/2010/07/blog-post_25.html">Edinburghclubs.blogspot.com ]]></description>
+	<pubDate>Mon, 26 Jul 2010 07:03:37 -0400</pubDate>
+	<author>G_Paterson</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Grant_Paterson__POD_CAST_3__Progressive_with__Detroit_flavor/</guid>
+</item>
+
+</channel>
+</rss>

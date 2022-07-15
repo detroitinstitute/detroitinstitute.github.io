@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Rosko / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 21 May 2007 17:59:28 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Hard Techno Mix By Rosko]]></title>
+	<link>http://www.detroitinstitute.org/techno/Hard_Techno_Mix_By_Rosko-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Hard_Techno_Mix_By_Rosko-1/"><![CDATA[Hard Techno Mix By Rosko]]></source>
+	<description><![CDATA[This is a hard techno mix i did<br />featuring artist:Torsten Kanzler,<br />Robert Natus,O.B.I., Frank Kvitta etc.<br />www.megaupload.com/?d=07PPBHR9 ]]></description>
+	<pubDate>Mon, 21 May 2007 17:59:28 -0400</pubDate>
+	<author>Rosko</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Hard_Techno_Mix_By_Rosko-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Rosko Techno Mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/Rosko_Techno_Mix-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Rosko_Techno_Mix-1/"><![CDATA[Rosko Techno Mix]]></source>
+	<description><![CDATA[Transient Van Mixed by Rosko<br />Techno mix featuring artist: Henrik B, Marco Bailey,<br />Dave the Drummer, Thomas Krome etc. enjoy!<br />[url]www.megaupload.com/?d=3R22TCZ5[/url] ]]></description>
+	<pubDate>Sun, 20 May 2007 21:53:41 -0400</pubDate>
+	<author>Rosko</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/Rosko_Techno_Mix-1/</guid>
+</item>
+
+</channel>
+</rss>

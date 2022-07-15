@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / elektrosouls / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 09 Oct 2008 11:28:22 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Samuel James - Too many Fish]]></title>
+	<link>http://www.detroitinstitute.org/techno/Samuel_James_-_Too_many_Fish/</link>
+	<source url="http://www.detroitinstitute.org/techno/Samuel_James_-_Too_many_Fish/"><![CDATA[Samuel James - Too many Fish]]></source>
+	<description><![CDATA[Samuel James mixing it up in fine style ]]></description>
+	<pubDate>Thu, 09 Oct 2008 11:28:22 -0400</pubDate>
+	<author>elektrosouls</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Samuel_James_-_Too_many_Fish/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Errel Ranson Exclusive mix For ELEKTROSOULS.net]]></title>
+	<link>http://www.detroitinstitute.org/techno/Errel_Ranson_Exclusive_mix__ELEKTROSOULSnet/</link>
+	<source url="http://www.detroitinstitute.org/techno/Errel_Ranson_Exclusive_mix__ELEKTROSOULSnet/"><![CDATA[Errel Ranson Exclusive mix For ELEKTROSOULS.net]]></source>
+	<description><![CDATA[ELEKTROSOULS would like to introduce you to Errell Ranson who has released tracks on AW,Code316 and Sula Musa and has done an exclusive mix for us here at ELEKTROSOULS . ]]></description>
+	<pubDate>Thu, 09 Oct 2008 11:23:43 -0400</pubDate>
+	<author>elektrosouls</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Errel_Ranson_Exclusive_mix__ELEKTROSOULSnet/</guid>
+</item>
+
+</channel>
+</rss>

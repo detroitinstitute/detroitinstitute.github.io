@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / minimalimpossible / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 22 Jun 2009 10:07:43 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[minimal: impossible - bigglitchtwo - Summer 2009 DJ mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/minimal_impossible_-_bigglitchtwo_-_Summer_2009_DJ_mix/</link>
+	<source url="http://www.detroitinstitute.org/techno/minimal_impossible_-_bigglitchtwo_-_Summer_2009_DJ_mix/"><![CDATA[minimal: impossible - bigglitchtwo - Summer 2009 DJ mix]]></source>
+	<description><![CDATA[The second installment of the bigglitch series by minimal: impossible showcasing talented new artists alongside more established one. Just to prove you don't need to be famous to make amazing tracks.<br /> <br /><a href='http://www.mediafire.com/?hzjftlhmjkk'>http://www.mediafire.com/?hzjftlhmjkk</a><br /><br />Kasper & Papol - Noche Magica<br />Origens - Unique<br />Camea - Happy Ending<br />Mark Asbrey - Canton Fair<br />Maurizio Vitiello - Tira E Molla (Tim Xavier Remix)<br />Alexi Delano & Xpansol - Antioxidation<br />Nils Anthes - Lost Soul Chapter 1 (Sascha Dive's Sex Wax Remix)<br />Hobo - Failsafe<br />Kasper - Morning Comes<br />Alexi Delano - Brooklyn Social<br />EC50 - Luuc B<br />Sergio Soroa - Deep In The Flu<br />Bloody Mary - Black Pearl<br />Montenegro - Chicas Latinas (Less Vocal Mix)<br />Montenegro - Kiss Me (Benwaa's Deep and Sloppy Kisser Mix)<br />Tigerskin - Heat ]]></description>
+	<pubDate>Mon, 22 Jun 2009 10:07:43 -0400</pubDate>
+	<author>minimalimpossible</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/minimal_impossible_-_bigglitchtwo_-_Summer_2009_DJ_mix/</guid>
+</item>
+
+<item>
+	<title><![CDATA[minimal: impossible - Live PA - 10-25-08]]></title>
+	<link>http://www.detroitinstitute.org/techno/minimal_impossible_-_Live_PA_-_10-25-08/</link>
+	<source url="http://www.detroitinstitute.org/techno/minimal_impossible_-_Live_PA_-_10-25-08/"><![CDATA[minimal: impossible - Live PA - 10-25-08]]></source>
+	<description><![CDATA[Recorded live in the mix on October 25, 2008 in Newark, NJ<br /><br />To download click [url=http://www.mediafire.com/?yqvimem3jq5][b]here.[/b][/URL]<br /><br />[u]Set list[/u]<br /><br />The Visible Surface (E C 5 0 remix)<br />Inhaler<br />Computer Control<br />Dulce Loco<br />Jorge Savoretti - Claridad (minimal: impossible remix)<br />Closer<br />Sex Crimes<br />Nice Days<br />Depth Charge<br />Glasgow<br />South Of Houston<br />Prototype<br />Maid Of Tones<br />Freak<br />La Relampago<br />Shapeshifter (minimal: impossible remix)<br />Triangle Loop<br /><br />Feedback is welcome and appreciated. ]]></description>
+	<pubDate>Sat, 06 Dec 2008 11:21:41 -0500</pubDate>
+	<author>minimalimpossible</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/minimal_impossible_-_Live_PA_-_10-25-08/</guid>
+</item>
+
+</channel>
+</rss>

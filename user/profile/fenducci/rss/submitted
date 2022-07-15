@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / fenducci / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 08 Jun 2008 07:57:52 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Fenducci live at Mains Castle 2003]]></title>
+	<link>http://www.detroitinstitute.org/techno/Fenducci_live_at_Mains_Castle_2003-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Fenducci_live_at_Mains_Castle_2003-1/"><![CDATA[Fenducci live at Mains Castle 2003]]></source>
+	<description><![CDATA[<img src="http://gestaltanalysis.com/logo.gif" width="103" height="180" alt="fenducci logo" /><br /><br /><a href="http://www.gestaltanalysis.com/mp3s/fenducci%20live%20undated%202003%20%281%29/01%20fenducci%20live%20undated%202003%20%281%29.mp3">fenducci live undated 2003 (1).mp3</a><br /><br />The last release was a more recent one, a showcase for our current output. This one goes back a few years to when we were doing gigs for a wider audience, a festival crowd with a broader range of tastes. It was summer, we were in a castle so we decided to do something a bit summery and fun.<br /><br />Hope you like it.<br /><br /><b>Playlist:</b><br /><br />Controversy- Prince<br />Crafty Sock- fenducci<br />Un-defined- fenducci<br />Don't Stop Till You Get Enough- Michael Jackson<br />I Feel Love- Georgio Moroder<br />Ain't Nobody- Chaka Khan<br />Magnum Force Intro- Lalo Schifrin<br />Do You Wanna Funk?- Sylvester<br />Un-defined- fenducci<br />Bus Stop- The Fatback Band<br />Pull Up to the Bumper- Grace Jones<br />News Report- Assault on Precinct 13 Soundtrack<br />Broken Plates- fenducci<br />First Bass- fenducci<br />Stop the Bus- fenducci<br />Planet Earth/ The Reflex- Duran Duran<br />Broken Face- The Pixies<br />Un-defined- fenducci<br />212 N. 12th- Salsoul Orchestra<br />Isolation- Joy Division<br />The Chase/Respectable- Georgio Moroder/ Mel and Kim<br />Bugaboo- Destiny's Child<br />Thoughty- fenducci<br /><br />Check out our website at <a href="http://www.gestaltanalysis.com">www.gestaltanalysis.com</a> ]]></description>
+	<pubDate>Sun, 08 Jun 2008 07:57:52 -0400</pubDate>
+	<author>fenducci</author>
+	<category>techno</category>
+	<votes>8</votes>
+	<guid>http://www.detroitinstitute.org/techno/Fenducci_live_at_Mains_Castle_2003-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Fenducci live 2006]]></title>
+	<link>http://www.detroitinstitute.org/techno/Fenducci_live_2006-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Fenducci_live_2006-1/"><![CDATA[Fenducci live 2006]]></source>
+	<description><![CDATA[<img src="http://gestaltanalysis.com/logo.gif" width="103" height="180" alt="fenducci logo" /><br /><br /><a href="http://gestaltanalysis.com/mp3s/fenducci%20live%2027-12-2006/livexmas2006.mp3">livexmas2006.mp3</a><br />This is our first post, a live set from us from 27th December 2006 at the Reading Rooms, Dundee, Scotland.<br />Hopefully it will be of interest to someone. Our next post will be something a bit more summery.<br /><br />Check out our website at <a href="http://www.gestaltanalysis.com">www.gestaltanalysis.com</a> ]]></description>
+	<pubDate>Fri, 16 May 2008 15:21:40 -0400</pubDate>
+	<author>fenducci</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/Fenducci_live_2006-1/</guid>
+</item>
+
+</channel>
+</rss>

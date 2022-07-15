@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Yotamavni / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 20 Jan 2010 13:07:23 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[A humble tribute of mine to Dilla]]></title>
+	<link>http://www.detroitinstitute.org/techno/humble_tribute__mine_to_Dilla-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/humble_tribute__mine_to_Dilla-1/"><![CDATA[A humble tribute of mine to Dilla]]></source>
+	<description><![CDATA[my first 12'' release is a tribute to a great hero<br />may he rest in peace<br /><br /><br /><br />http://www.youtube.com/watch?v=SZmkdUguZ3E<br /><br />Various - Jamsteady Vol. 10<br />Label:<br />Jamsteady<br />Catalog#:<br />JS010<br />Format:<br />Vinyl, 12", Limited Edition, Promo<br />Country:<br />US<br />Released:<br />May 2006 ]]></description>
+	<pubDate>Wed, 20 Jan 2010 14:07:23 -0500</pubDate>
+	<author>Yotamavni</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/humble_tribute__mine_to_Dilla-1/</guid>
+</item>
+
+</channel>
+</rss>

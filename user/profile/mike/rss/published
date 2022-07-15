@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / mike / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 15 Jun 2007 15:29:05 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[M_nus interview from 2006]]></title>
+	<link>http://www.detroitinstitute.org/techno/M_nus_interview_from_2006/</link>
+	<source url="http://www.detroitinstitute.org/techno/M_nus_interview_from_2006/"><![CDATA[M_nus interview from 2006]]></source>
+	<description><![CDATA[pretty interesting interview with the m_nus crew about their means and methods. good stuff<br /><br /><youtube>jGlTVW1P5TY</youtube> ]]></description>
+	<pubDate>Fri, 15 Jun 2007 15:29:05 -0400</pubDate>
+	<author>mike</author>
+	<category>techno</category>
+	<votes>8</votes>
+	<guid>http://www.detroitinstitute.org/techno/M_nus_interview_from_2006/</guid>
+</item>
+
+</channel>
+</rss>

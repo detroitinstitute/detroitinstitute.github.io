@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / anetka / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 21 Jul 2009 13:54:03 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Kev Obrien - Stranjj Selections - July 2009]]></title>
+	<link>http://www.detroitinstitute.org/techno/Kev_Obrien_-_Stranjj_Selections_-_July_2009/</link>
+	<source url="http://www.detroitinstitute.org/techno/Kev_Obrien_-_Stranjj_Selections_-_July_2009/"><![CDATA[Kev Obrien - Stranjj Selections - July 2009]]></source>
+	<description><![CDATA[<a href="http://djmix.net/download.php?d=6b4e2b"><img src="http://djmix.net/images/mixes/1670stranjj_July_diskoapostel.jpg"></a></img><br />Next edition of the world famous Stranjj Selections <a href="http://djmix.net/download.php?d=6b4e2b">DOWNLOAD</a> ]]></description>
+	<pubDate>Tue, 21 Jul 2009 13:54:03 -0400</pubDate>
+	<author>kev_obrien</author>
+	<category>techno</category>
+	<votes>8</votes>
+	<guid>http://www.detroitinstitute.org/techno/Kev_Obrien_-_Stranjj_Selections_-_July_2009/</guid>
+</item>
+
+</channel>
+</rss>

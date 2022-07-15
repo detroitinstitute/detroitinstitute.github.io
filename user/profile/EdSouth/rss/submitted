@@ -1,0 +1,50 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / EdSouth / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 11 Apr 2008 02:34:04 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[HipGnosis - Hour of The Lizard 009]]></title>
+	<link>http://www.detroitinstitute.org/techno/HipGnosis_-_Hour___Lizard_009/</link>
+	<source url="http://www.detroitinstitute.org/techno/HipGnosis_-_Hour___Lizard_009/"><![CDATA[HipGnosis - Hour of The Lizard 009]]></source>
+	<description><![CDATA[A smoovey tech excursion with plenty of bing, bang and bong.  Originally broadcast on my web radio residency show, and soon an RK2 Podcast featured set thru iTunes.<br /><br />01. Flight Of The Albatross (Original Mix) - Fairmont [Border]<br />02. Grated (Original Mix) - Bushwacka! [Olmeto]<br />03. Hotel Sapporo (Original Mix) - Matthias Tanzmann [Moon Harbour]<br />04. The Holy Grail (Original Mix) - Tigerskin [Mood Music]<br />05. Takin No Shorts (Original Mix) - Quarion [Perspectiv]<br />06. Zum Zum (Audiojack Remix) - Mike Monday [Great Stuff]<br />07. Antigua (Original Mix) - Koljah [Vidab]<br />08. Planetary (Club Mix) - Booka Shade [Get Physical]<br />09. Steppenwolf (Sydenham Blacktro Dub Remix) - H.O.S.H. [Diynamic]<br />10. The Island (Original Mix) - Eyerer and Boratto [Audiomatique]<br />11. Coda (Original Mix) - Kolombo [Vice Versa] ]]></description>
+	<pubDate>Fri, 11 Apr 2008 02:34:04 -0400</pubDate>
+	<author>EdSouth</author>
+	<category>techno</category>
+	<votes>9</votes>
+	<guid>http://www.detroitinstitute.org/techno/HipGnosis_-_Hour___Lizard_009/</guid>
+</item>
+
+<item>
+	<title><![CDATA[H5N1 - Hour of The Lizard 005]]></title>
+	<link>http://www.detroitinstitute.org/techno/H5N1_-_Hour___Lizard_005-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/H5N1_-_Hour___Lizard_005-1/"><![CDATA[H5N1 - Hour of The Lizard 005]]></source>
+	<description><![CDATA[An infectious tech-house twitcher that's slightly dark, but mostly fun.  Originally broadcast on my web radio residency show.<br /><br />01. Japan 4 (Original Mix) - Audiojack [U.F.O.]<br />02. Coming Clean (Audiojack Remix) - Red Jackson [Audio Therapy]<br />03. Trash (Andrea Roma Remix) - Ketto [Subtronic]<br />04. Chariots (Motorcitysoul Remix) - Berkson and Priestley [Simple]<br />05. What Kinda (Mark Henning Remix) - Mr. G [Luxaflex]<br />06. Green Chocolate (Koljah Exploding Cake Remix) - Fusiphorm [Minimood]<br />07. Dark Beat (Deadmau5 Vocal Mix) - Kamisshake [Azuli]<br />08. South Fiji (Original Mix) - Facundo Mohrr [FeralCode]<br />09. Three Arches (Samim Mix) - David K [Tsuba]<br />10. North Fiji (Original Mix) - Facundo Mohrr [FeralCode]<br />11. Dana (Original Mix) - Chaim [Dogtown] ]]></description>
+	<pubDate>Wed, 12 Mar 2008 10:46:31 -0400</pubDate>
+	<author>EdSouth</author>
+	<category>techno</category>
+	<votes>16</votes>
+	<guid>http://www.detroitinstitute.org/techno/H5N1_-_Hour___Lizard_005-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[SE7EN - Hour of The Lizard 007]]></title>
+	<link>http://www.detroitinstitute.org/techno/SE7EN_-_Hour___Lizard_007-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/SE7EN_-_Hour___Lizard_007-1/"><![CDATA[SE7EN - Hour of The Lizard 007]]></source>
+	<description><![CDATA[No deadly sins, no holy virtues, just some fluid tech-tonics to rumble your rig ... in an understated, offbeat way.<br /><br />Originally broadcast on Stream-FM, 7 February 2008.<br /><br />Tracklist:<br />01. Don Alfredo (Original Mix) - H.O.S.H. and Adriano [Kindisch]<br />02. Manifestation (Original Mix) - Eyerer and Collins pres. Starsniff [Session Deluxe]<br />03. Dies Und Das (Original Mix) - Solomun, GebrÃ¼der Ton and Adriano [Diyanamic]<br />04. Luna (Original Mix) - Dusty Kid [Bpitch Control]<br />05. Tunnels (Sebo K and Metro Remix) - Basic Soul Unit [Mule Electronic]<br />06. Rejacked (Original Mix) - Marcus Sur [Highgrade]<br />07. Ach Gewitter (Original Mix) - Johnjon [Stil Vor Talent]<br />08. The Underground Bullshit (Original Mix) - Gel Abril [Ovum]<br />09. Seven (Oxia Rework) - Oxia vs. Gino's and Snake [Notorious]<br />10. Jaguar Shoes (Ripperton Lonely Predator Reshape) - Kevin Griffiths [Tsuba]<br />11. Late Night Cities (Oxia and Eric Borgo Remix) - Noirdegout [Initial Cuts]<br />12. Monterey (Original Mix) - Marcus Sur [Highgrade] ]]></description>
+	<pubDate>Sat, 01 Mar 2008 00:25:17 -0500</pubDate>
+	<author>EdSouth</author>
+	<category>techno</category>
+	<votes>18</votes>
+	<guid>http://www.detroitinstitute.org/techno/SE7EN_-_Hour___Lizard_007-1/</guid>
+</item>
+
+</channel>
+</rss>

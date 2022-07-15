@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / ernesto / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 29 May 2007 21:54:14 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Ernesto Claramount -  Live Set]]></title>
+	<link>http://www.detroitinstitute.org/techno/Ernesto_Claramount_-__Live_Set/</link>
+	<source url="http://www.detroitinstitute.org/techno/Ernesto_Claramount_-__Live_Set/"><![CDATA[Ernesto Claramount -  Live Set]]></source>
+	<description><![CDATA[A live set by dj Ernesto Claramount released some days ago, enjoy some smooth live set with minimal techno sounds, and a slice of electro beats!  DJ/Producer from EL Salvador, NEWEST SETS WILL BE POSTED LATER ON <br /><br /><a href="http://www.snapdrive.net/files/430840/Ernesto%20Claramount%20-%20Reflections%2007%20Live%20Set.mp3">Ernesto Claramount - Reflections 07 Live Set.mp3</a> ]]></description>
+	<pubDate>Tue, 29 May 2007 21:54:14 -0400</pubDate>
+	<author>ernesto</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Ernesto_Claramount_-__Live_Set/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Jamie KiDD - rattle.her]]></title>
+	<link>http://www.detroitinstitute.org/techno/Jamie_KiDD_-_rattleher/</link>
+	<source url="http://www.detroitinstitute.org/techno/Jamie_KiDD_-_rattleher/"><![CDATA[Jamie KiDD - rattle.her]]></source>
+	<description><![CDATA[Who said minimal couldn't be funky?  Not those who would call this "87 minutes of funk soaked minimal, percussive electro.tech, and salacious techno".<br /><br /><a href="http://jamiekidd.com/jamiekidd_march007.mp3">Download mp3</a><br /><br />Total time 1:27:02<br /><br />Track list:<br /><br />01 l Seuil â€" Uneasy Circle<br />02 l Gaiser â€" Half Life<br />03 l Seth Troxler â€" Love Bezerker (Ryan Crosson Remix)<br />04 l Alecs Marta â€" PinesPisser (Davide Squillace Remix)<br />05 l Funk Dâ€™Void & Phil Kieran â€" Black As You Like<br />06 l Davide Squillace & Swat Squad â€" Panik Reinterpretation<br />07 l Maetrik â€" Sexus<br />08 l Funk Dâ€™Void & Phil Kieran â€" Black Worm<br />09 l Paul Ritch â€" Winter Ceremony<br />10 l Christian Smith & John Selway â€" Silver Bullet<br />11 l Mark-Henning â€" Ring of Fire<br />12 l Samuel L. Session â€" The Stick Up<br />13 l John Dahlback â€" Now Itâ€™s Not Summer (Stephan Bodzin Remix)<br />14 l Goldfish Und Der Dulz â€" Uhu<br />15 l Samuel L. Session â€" Can You Relate<br />16 l Joel Mull â€" Stepping<br />17 l Samuel L. Session â€" Sinister<br />18 l D. I. M. â€" Sysiphos<br />19 l Sebastian â€" Walkman<br />20 l Seph â€" Dash (Heartthrob's Acid For Bongos Interpretation)<br /><br />*Additional samples from:<br /><br />.David Lynchâ€™s â€˜Lost Highwayâ€™<br />.The Doors â€" The Soft Parade ]]></description>
+	<pubDate>Sun, 06 May 2007 00:29:20 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>37</votes>
+	<guid>http://www.detroitinstitute.org/techno/Jamie_KiDD_-_rattleher/</guid>
+</item>
+
+</channel>
+</rss>

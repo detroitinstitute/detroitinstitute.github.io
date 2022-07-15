@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / djdigital1 / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 10 Jun 2013 19:55:24 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[DJ Digital1 Movement Mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/dj-digital1-movement-mix-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/dj-digital1-movement-mix-1/"><![CDATA[DJ Digital1 Movement Mix]]></source>
+	<description><![CDATA[This Mix was recorded live on 5-25-13 @ BK's Party. It has tech-house<br /><br />This is the kickoff party for a long weekend of Music Fun! This party included 30 people from out of the country, who travel here each year JUST for the Movement weekend. <br /><br />People from England, Japan, Germany, Brazil, Columbia, Spain, and a few others.  ]]></description>
+	<pubDate>Mon, 10 Jun 2013 19:55:24 -0400</pubDate>
+	<author>djdigital1</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/dj-digital1-movement-mix-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[DJDigital1 Quickset]]></title>
+	<link>http://www.detroitinstitute.org/techno/DJDigital1_Quickset/</link>
+	<source url="http://www.detroitinstitute.org/techno/DJDigital1_Quickset/"><![CDATA[DJDigital1 Quickset]]></source>
+	<description><![CDATA[I was asked to stop by a private event to spin for a bit. What i didn't know was there was going to be about 250 people showing up! Ain't no Party like a DEEEEtroit party. <br /><br />Enjoy! ]]></description>
+	<pubDate>Sat, 06 Feb 2010 14:03:12 -0500</pubDate>
+	<author>djdigital1</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/DJDigital1_Quickset/</guid>
+</item>
+
+</channel>
+</rss>

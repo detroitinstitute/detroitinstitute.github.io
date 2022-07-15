@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / MIEXER / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 22 Nov 2009 13:35:48 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[ROLLERCOASTER]]></title>
+	<link>http://www.detroitinstitute.org/techno/ROLLERCOASTER/</link>
+	<source url="http://www.detroitinstitute.org/techno/ROLLERCOASTER/"><![CDATA[ROLLERCOASTER]]></source>
+	<description><![CDATA[THIS MIX IS A ROLLERCOASTER TRIP, IN HI SPEED 136 BPM FROM BEGINNING TILL THE END. PLEASE TAKE THIS THRILLING RIDE. ]]></description>
+	<pubDate>Sun, 22 Nov 2009 14:35:48 -0500</pubDate>
+	<author>MIEXER</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/ROLLERCOASTER/</guid>
+</item>
+
+</channel>
+</rss>

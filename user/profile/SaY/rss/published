@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / SaY / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 28 Dec 2011 19:37:27 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[TRIBUTE TO OLD SCHOOL]]></title>
+	<link>http://www.detroitinstitute.org/techno/tribute-to-old-school/</link>
+	<source url="http://www.detroitinstitute.org/techno/tribute-to-old-school/"><![CDATA[TRIBUTE TO OLD SCHOOL]]></source>
+	<description><![CDATA[Tribute to old school is an old dj set by Alessandro Ferranti aka SaY Dj. It was recorded in Rome over 12 years ago. It represent the summary of a magical time...<br /><br /> <br /><br />...any kind of comments are welcome<br /><br /> <br /><br /> <br /><br /> <br /><br />Track list<br /><br /> <br /><br />1) Lory D / Eugenio Vatta - Sounds Never Seen<br /><br />http://www.discogs.com/Lory-D-We-Were-In-The-Future/release/150041<br /><br /> <br /><br />2) Cybersonik - Technarchy<br /><br />http://www.discogs.com/Cybersonik-Technarchy/release/34738<br /><br /> <br /><br />3) Lloyd Owes  Me a Packet - The Pounder<br /><br />http://www.discogs.com/Lloyd-Owes-Me-A-Packet-The-Pounder/release/71720<br /><br /> <br /><br />4) Joey Beltram - My Sound<br /><br />http://www.discogs.com/Joey-Beltram-Beltram-Volume-2/release/5181<br /><br /> <br /><br />5) Paolo Zerla - Power<br /><br />http://www.discogs.com/Paolo-Zerletti-Power/release/26694<br /><br /> <br /><br />6) Afx - Isopropophlex<br /><br />http://www.discogs.com/AFX-Analogue-Bubble-Bath-Vol-1/release/778200<br /><br /> <br /><br />7) Afx - Untitled<br /><br />http://www.discogs.com/AFX-Analogue-Bubblebath-4/master/2429<br /><br /> <br /><br />8) Afx - Quoth (Original)<br /><br />http://www.discogs.com/Polygon-Window-Quoth/release/24349<br /><br /> <br /><br />9) Leo Anibaldi - Attack Random<br /><br />http://www.discogs.com/Leo-Anibaldi-Acid-Pop/release/61982<br /><br /> <br /><br />10) Leo Anibaldi  - Possession<br /><br />http://www.discogs.com/Leo-Anibaldi-Cannibald-The-Virtual-Language/release/61985<br /><br /> <br /><br />11) Lory D - The Sounds Of Rome<br /><br />http://www.discogs.com/Lory-D-We-Were-In-The-Future/release/102874<br /><br /> <br /><br />12) D.H.S. - House Of God (The Remix)<br /><br />http://www.discogs.com/DHS-House-Of-God-Remix/release/41916<br /><br /> <br /><br />13) Robert Armani - Ambulance<br /><br />http://www.discogs.com/Robert-Armani-Ambulance/master/16155 ]]></description>
+	<pubDate>Wed, 28 Dec 2011 20:37:27 -0500</pubDate>
+	<author>SaY</author>
+	<category>techno</category>
+	<votes>10</votes>
+	<guid>http://www.detroitinstitute.org/techno/tribute-to-old-school/</guid>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / mjertis / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 19 Oct 2008 03:11:47 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Clouds Passing By Mixed By Thomas Summer]]></title>
+	<link>http://www.detroitinstitute.org/techno/Clouds_Passing_By_Mixed_By_Thomas_Summer-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Clouds_Passing_By_Mixed_By_Thomas_Summer-1/"><![CDATA[Clouds Passing By Mixed By Thomas Summer]]></source>
+	<description><![CDATA[1.Clouds Passing By (Moonbeam Remix)	by Ryan Davis	<br />2.Mandala (Patch Park Remix)	by Dubfunk	<br />3.Smokin Mountain by Alex Dolby	<br />4.Give To Me Fast by Francesco Vega	<br />5.Bellsong by Paolo Mojo	<br />6.Ushuaia by Alex Dolby	<br />7.Rabbit Hunt (Abonne In The Full Rabbithouse Mix) by Format B	<br />8.Wookie Nipple Pinchy by Kriece	<br />9.Boiling Point by Heatsteric	<br />10.Reynosa by Emilio Fernandez	<br />11.Morphine (Francesco Diaz & Young Rebels Mix) by John Dahlback	<br />12.Chasin A Feeling (Glenn Morrison & Bruce Aisher Remix) by Quivver	<br />13.All Day (Audionova Mix) by Tim Davison feat Niki Mak <br /><br />mp3 link<br />http://www.mypodcast.com/fsaudio/thomassummer_20080926_0732-301957.mp3 ]]></description>
+	<pubDate>Sun, 19 Oct 2008 03:11:47 -0400</pubDate>
+	<author>thomas.summer</author>
+	<category>techno</category>
+	<votes>5</votes>
+	<guid>http://www.detroitinstitute.org/techno/Clouds_Passing_By_Mixed_By_Thomas_Summer-1/</guid>
+</item>
+
+</channel>
+</rss>

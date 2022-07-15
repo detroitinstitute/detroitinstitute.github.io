@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / ezb / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 03 Feb 2010 08:03:48 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Retroit promo mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/Retroit_promo_mix-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Retroit_promo_mix-1/"><![CDATA[Retroit promo mix]]></source>
+	<description><![CDATA[RETROIT PROMO MIX BY DJ EZB,18.01.(vinyl on two 1210`s)<br />1.Untitled, a .                         Depth Perception                        (Depth Perception)<br />2.Untitled                               Equalized 2                                    (Equalized)                                                    <br />3.Burning the midnight oil, Martinez (Soulrack&MikelBTMNO mix   (Cray1)<br />4.Bambossa,                        Gorge                                                         (Plastic City)<br />5.React ,                                Russ Gabriel                                              (Mobilee)<br />6.De.ep.troit pt.2,                 Gegenheimer                                              (Perplex)<br />7.Stoned Autopilot ,            Martin Buttrich (C2 version)                    (Planet e)<br />8.Sustained Hope,              Paul Mac                                                           (Circle)<br />9.Grab me,                            Ben Klock                                                (Klockworks)<br />10.Umlaut2(new version), Mike Dehnert,                                    (Clone Basement)<br />11.Destination Nagano,     Jooris Voorn                                                   (Ibadan)<br />12.The Beat                         MarkRomboy vsChelonisJones (RvsA rm(Systematic)<br />13.M-tech,                            Jark Prongo                                                 (A.r.t.less)<br />14.Restrained,                    Edit-Select                                           (Edit-Select rec)<br />15.Who taught you Math,  Robert Hood (Shonky rmx),                (Freak`nChick)<br />16.Fake Stab                       Benny Rodrigues                                       (Len Series)<br />17.Careless,                        Rydell                                                        (Fachwerk)<br />18.Life soundtrack,            Deetron ft. dj Bone (Joris Voorn interpr.)(MusicMan)<br />19.Untitled,                          SVD                                                                   (Ibadan)<br />20.Later On,                         Itamar Sagi                                (Klap Klap/BeAsOne)<br />21.Chica-go,                       Jeroen Verhei                                               (Rejected)<br />22.Dr.Bootygrabber,          Detroit Grand Pubahs (S.L.Session rmx (Detelefunk)<br />23.Ta-Ta Arr,                       SkatebÃ¥rd,                                                (Sex Tags)<br />24.Amazon Farewell,        Dj Rush (T.Mitchell JungleLife mx(Dark House Music)<br />25.Jaguar,                           SÃ©bastien LÃ©ger / (AztecMystic)       (Mistakes Music)                                       <br />26.Sumatra                         Chymera                                                      (Len Series)<br />27.Maximum,                      Mike Dehnert                                              (Fachwerk)<br />28.Brauchbar,                     Mike  Dehnert                                                (Fachwerk) ]]></description>
+	<pubDate>Wed, 03 Feb 2010 09:03:48 -0500</pubDate>
+	<author>ezb</author>
+	<category>techno</category>
+	<votes>8</votes>
+	<guid>http://www.detroitinstitute.org/techno/Retroit_promo_mix-1/</guid>
+</item>
+
+</channel>
+</rss>

@@ -1,0 +1,86 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / grantp1975 / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 21 Nov 2012 17:46:47 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[November Mix by myself.  Deep House & Techno]]></title>
+	<link>http://www.detroitinstitute.org/techno/november-mix-by-myself--deep-house-techno/</link>
+	<source url="http://www.detroitinstitute.org/techno/november-mix-by-myself--deep-house-techno/"><![CDATA[November Mix by myself.  Deep House & Techno]]></source>
+	<description><![CDATA[Hi, I've not posted here in a while. The link is for my November 2012 mix. Its a deep house/techno mix. Hope you enjoy it. Feel free to comment and download. ]]></description>
+	<pubDate>Wed, 21 Nov 2012 18:46:47 -0500</pubDate>
+	<author>grantp1975</author>
+	<category>techno</category>
+	<votes>5</votes>
+	<guid>http://www.detroitinstitute.org/techno/november-mix-by-myself--deep-house-techno/</guid>
+</item>
+
+<item>
+	<title><![CDATA[May 2012 Techno Mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/may-2012-techno-mix/</link>
+	<source url="http://www.detroitinstitute.org/techno/may-2012-techno-mix/"><![CDATA[May 2012 Techno Mix]]></source>
+	<description><![CDATA[May Techno Mix. Some crackin tunes around just now. This one's a bit of a journey.  Enjoy! ]]></description>
+	<pubDate>Tue, 22 May 2012 16:45:05 -0400</pubDate>
+	<author>grantp1975</author>
+	<category>techno</category>
+	<votes>5</votes>
+	<guid>http://www.detroitinstitute.org/techno/may-2012-techno-mix/</guid>
+</item>
+
+<item>
+	<title><![CDATA[transmission vol I]]></title>
+	<link>http://www.detroitinstitute.org/techno/transmission-vol-i/</link>
+	<source url="http://www.detroitinstitute.org/techno/transmission-vol-i/"><![CDATA[transmission vol I]]></source>
+	<description><![CDATA[First techno mix of 2012.  Finished off with a couple of gems. Transmission. ]]></description>
+	<pubDate>Thu, 15 Mar 2012 14:00:37 -0400</pubDate>
+	<author>grantp1975</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/transmission-vol-i/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Feb2012 Techno Mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/feb2012-techno-mix/</link>
+	<source url="http://www.detroitinstitute.org/techno/feb2012-techno-mix/"><![CDATA[Feb2012 Techno Mix]]></source>
+	<description><![CDATA[Older tunes and new ones. Feb 2012 Techno Mix. Happy 21st Mike! ]]></description>
+	<pubDate>Wed, 08 Feb 2012 19:51:40 -0500</pubDate>
+	<author>grantp1975</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/feb2012-techno-mix/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Some new & timeless old stuff]]></title>
+	<link>http://www.detroitinstitute.org/techno/some-new-timeless-old-stuff/</link>
+	<source url="http://www.detroitinstitute.org/techno/some-new-timeless-old-stuff/"><![CDATA[Some new & timeless old stuff]]></source>
+	<description><![CDATA[Same as the first part. Hope you enjoy!  ]]></description>
+	<pubDate>Wed, 11 Jan 2012 19:00:45 -0500</pubDate>
+	<author>grantp1975</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/some-new-timeless-old-stuff/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Techno Mix, Some new stuff plus a fair few classics that are timeless. Enjoy and a Happy New Year!]]></title>
+	<link>http://www.detroitinstitute.org/techno/techno-mix-some-new-stuff-plus-a-fair-few-classics-that-are-timeless-enjoy-and-a-happy-new-year-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/techno-mix-some-new-stuff-plus-a-fair-few-classics-that-are-timeless-enjoy-and-a-happy-new-year-1/"><![CDATA[Techno Mix, Some new stuff plus a fair few classics that are timeless. Enjoy and a Happy New Year!]]></source>
+	<description><![CDATA[Techno Mix, Some new stuff plus a fair few classics that are timeless. Enjoy and a Happy New Year! ]]></description>
+	<pubDate>Sat, 31 Dec 2011 22:19:25 -0500</pubDate>
+	<author>grantp1975</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/techno-mix-some-new-stuff-plus-a-fair-few-classics-that-are-timeless-enjoy-and-a-happy-new-year-1/</guid>
+</item>
+
+</channel>
+</rss>

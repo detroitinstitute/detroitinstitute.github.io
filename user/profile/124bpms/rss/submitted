@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / 124bpms / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 13 Apr 2009 11:42:17 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[The 2009 Detroit Electronic Music Festival Line Up and Ticket Information Wiki]]></title>
+	<link>http://www.detroitinstitute.org/techno/2009_Detroit_Electronic_Music_Festival_Line_Up__Ticket_Information_Wiki/</link>
+	<source url="http://www.detroitinstitute.org/techno/2009_Detroit_Electronic_Music_Festival_Line_Up__Ticket_Information_Wiki/"><![CDATA[The 2009 Detroit Electronic Music Festival Line Up and Ticket Information Wiki]]></source>
+	<description><![CDATA[The 2009 Detroit Electronic Music Festival is in itâ€™s 10th year and will take place Memorial Day Week End (May 23-25, Noon To Midnight)  in Hart Plaza, in Downtown Detroit. Michigan. ]]></description>
+	<pubDate>Mon, 13 Apr 2009 11:42:17 -0400</pubDate>
+	<author>124bpms</author>
+	<category>techno</category>
+	<votes>4</votes>
+	<guid>http://www.detroitinstitute.org/techno/2009_Detroit_Electronic_Music_Festival_Line_Up__Ticket_Information_Wiki/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Kevin Saunderson to release Remix Compilation â€˜History Elevateâ€™]]></title>
+	<link>http://www.detroitinstitute.org/news/Kevin_Saunderson_to_release_Remix_Compilation_History_Elevate/</link>
+	<source url="http://www.detroitinstitute.org/news/Kevin_Saunderson_to_release_Remix_Compilation_History_Elevate/"><![CDATA[Kevin Saunderson to release Remix Compilation â€˜History Elevateâ€™]]></source>
+	<description><![CDATA[To celebrate his mammoth 20 years worth musical genius, KMS & Fabric Recordings join forces and unleash a retrospective of Kevinâ€™s work with a brand new compilation â€˜History Elevateâ€™ featuring a heavyweight selection of KS classics. ]]></description>
+	<pubDate>Fri, 10 Apr 2009 17:42:52 -0400</pubDate>
+	<author>124bpms</author>
+	<category>news</category>
+	<votes>7</votes>
+	<guid>http://www.detroitinstitute.org/news/Kevin_Saunderson_to_release_Remix_Compilation_History_Elevate/</guid>
+</item>
+
+</channel>
+</rss>

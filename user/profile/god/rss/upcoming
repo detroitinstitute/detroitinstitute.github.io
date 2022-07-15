@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / god / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 09 Mar 2010 09:33:09 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Stopping the Spam!]]></title>
+	<link>http://www.detroitinstitute.org/news/Stopping__Spam/</link>
+	<source url="http://www.detroitinstitute.org/news/Stopping__Spam/"><![CDATA[Stopping the Spam!]]></source>
+	<description><![CDATA[Hey guys, to help combat the problem of spam I have deputized Dany and AntonBanks who are now admins of the site.  I have also added a captcha for new user registrations and the next upgrade will see captcha required for all posts.  Thanks to everyone for sticking around while we deal with this problem! ]]></description>
+	<pubDate>Tue, 09 Mar 2010 10:33:09 -0500</pubDate>
+	<author>god</author>
+	<category>news</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/news/Stopping__Spam/</guid>
+</item>
+
+</channel>
+</rss>

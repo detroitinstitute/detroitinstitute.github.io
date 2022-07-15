@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Wandabeats / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 20 Nov 2008 03:05:31 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[A de Large - Mikrobeats 4 Tiny People | Syncopated Musik Podcast]]></title>
+	<link>http://www.detroitinstitute.org/techno/de_Large_-_Mikrobeats_4_Tiny_People__Syncopated_Musik_Podcast/</link>
+	<source url="http://www.detroitinstitute.org/techno/de_Large_-_Mikrobeats_4_Tiny_People__Syncopated_Musik_Podcast/"><![CDATA[A de Large - Mikrobeats 4 Tiny People | Syncopated Musik Podcast]]></source>
+	<description><![CDATA[Syncopated Musik presents a series of Podcast from the label artists starting with A de Largeâ€™s Mikrobeats 4 Tiny People, before the Release of Musik Non Stop Uno, a Compilation CD featuring: Master Hakan Lidbo, Fax, Yapacc, Daniela La Luz, Nico Ovalle, Genna Greene, Marcos Romero, Mateo Monestier, Dave Wesley, James Patrick, cHMa and Sergio Soroa.<br /><br />Mikrobeats 4 Tiny People is the work of A de Large A.k.A Marcos Romero in his techno side, and is the fruit of many nights exploring beats programming ]]></description>
+	<pubDate>Thu, 20 Nov 2008 04:05:31 -0500</pubDate>
+	<author>Wandabeats</author>
+	<category>techno</category>
+	<votes>14</votes>
+	<guid>http://www.detroitinstitute.org/techno/de_Large_-_Mikrobeats_4_Tiny_People__Syncopated_Musik_Podcast/</guid>
+</item>
+
+</channel>
+</rss>

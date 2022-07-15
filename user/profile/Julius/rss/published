@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Julius / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 30 Sep 2008 05:35:19 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[San Laurentino Mixes from CoffeeBreakStreet.com]]></title>
+	<link>http://www.detroitinstitute.org/techno/San_Laurentino_Mixes_from_CoffeeBreakStreetcom-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/San_Laurentino_Mixes_from_CoffeeBreakStreetcom-1/"><![CDATA[San Laurentino Mixes from CoffeeBreakStreet.com]]></source>
+	<description><![CDATA[San Laurentino - Indian Summer<br /><img alt="" src="http://coffeebreakstreet.com/upload/image/Indian%20Summer.JPG" > <br />style:minimal, microhouse, deep, chill, electro <img src="CoffeeBreakStreet.com%20-%20the%20online%20radio%20dedicated%20to%20electronic%20and%20modern%20music_elemei/Download-Icon.gif" alt="" width="80" height="15"><br /><a href="http://www.coffeebreakstreet.com/music/San_Laurentino_-_Indian_Summer.mp3">San Laurentino - Indian Summer</a><br />San Laurentino - Lotus<br />      <img alt="" src="http://coffeebreakstreet.com/upload/image/lotusxxx.JPG">  <br />style:minimal, house/microhouse  <br /><a href="http://www.coffeebreakstreet.com/music/San_Laurentino_-_Lotus.mp3"><img src="CoffeeBreakStreet.com%20-%20the%20online%20radio%20dedicated%20to%20electronic%20and%20modern%20music_elemei/Download-Icon.gif" style="width: 83px; height: 13px;" alt=""></a> <a href="http://www.coffeebreakstreet.com/music/San_Laurentino_-_Lotus.mp3">San Laurentino - Lotus</a><br />San Laurentino - Dropz<br /><img alt="" src="http://coffeebreakstreet.com/upload/image/San%20Laurentino%20Drops02.JPG" ><br />style:minimal, house/microhouse  <a href="http://www.coffeebreakstreet.com/music/San_Laurentino_-_Dropz.mp3"><img src="CoffeeBreakStreet.com%20-%20the%20online%20radio%20dedicated%20to%20electronic%20and%20modern%20music_elemei/Download-Icon.gif" style="width: 83px; height: 13px;" alt=""></a> <br /><a href="http://www.coffeebreakstreet.com/music/San_Laurentino_-_Dropz.mp3">San Laurentino - Dropz.mp3</a>            <br />        <br />       ]]></description>
+	<pubDate>Tue, 30 Sep 2008 05:35:19 -0400</pubDate>
+	<author>Julius</author>
+	<category>techno</category>
+	<votes>19</votes>
+	<guid>http://www.detroitinstitute.org/techno/San_Laurentino_Mixes_from_CoffeeBreakStreetcom-1/</guid>
+</item>
+
+</channel>
+</rss>

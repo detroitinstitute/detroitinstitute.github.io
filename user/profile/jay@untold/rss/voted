@@ -1,0 +1,50 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / jay@untold / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 26 Sep 2008 07:07:19 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[uniformed technichian,untold radio mix,]]></title>
+	<link>http://www.detroitinstitute.org/techno/uniformed_technichianuntold_radio_mix/</link>
+	<source url="http://www.detroitinstitute.org/techno/uniformed_technichianuntold_radio_mix/"><![CDATA[uniformed technichian,untold radio mix,]]></source>
+	<description><![CDATA[a 45 minute mix of my take of modern day techno,it contians new and old music from well respected artist from across the globe,scorp,technasia,jeff mills,paul mac,dave clarke,john thomas,despite the five minute intro this mix is certianly one for the dancefloor,                                                                                                              LISTERN TO MY MIX HERE            http://www.esnips.com/doc/e7464da9-14f8-41f2-9cd4-d331eb1581ca/untold-radio-mix     OR YOU CAN DOWNLOAD IT @  http://www.megaupload.com/?d=V63PXMK8 ]]></description>
+	<pubDate>Fri, 26 Sep 2008 07:07:19 -0400</pubDate>
+	<author>jay@untold</author>
+	<category>techno</category>
+	<votes>13</votes>
+	<guid>http://www.detroitinstitute.org/techno/uniformed_technichianuntold_radio_mix/</guid>
+</item>
+
+<item>
+	<title><![CDATA[The Black Dog - One Hour With Robert Hood DJ Mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/Black_Dog_-_One_Hour_With_Robert_Hood_DJ_Mix-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Black_Dog_-_One_Hour_With_Robert_Hood_DJ_Mix-1/"><![CDATA[The Black Dog - One Hour With Robert Hood DJ Mix]]></source>
+	<description><![CDATA[<img src="http://www.dogsquad.co.uk/tbd/wp-content/uploads/2008/09/roberthood.jpg" ></img><br /><br />The Black Dog - One Hour With Robert Hood DJ Mix<br /><br /><br />1. The Black Dog - Train By The Autobahn [Part 2] (8 Mile Remix by Rob Hood)<br />2. Robert Hood - Sauna<br />3. Robert Hood - Radio Active<br />4. Robert Hood - Needs and Wants<br />5. Robert Hood - And Then We Planned Our Escape<br />6. Robert Hood - Square Remix<br />7. Robert Hood - Changes Remix<br />8. Robert Hood - [Untitled] (Taken from Point Blank)<br />9. Robert Hood - Special Heat<br />10. Robert Hood - Agent Wood<br />11. Robert Hood - Strobe Light<br />12. Robert Hood - Side Effect<br />13. Robert Hood - Razr<br />14. Robert Hood - Omega<br />15. Robert Hood - Special Heat<br />16. Robert Hood - The Pipes<br />17. Robert Hood - Wrath Meditation<br />18. The Black Dog - Train By The Autobahn [Part 2] (DJ Remix by Rob Hood)<br />19. Robert Hood - Memo From Thunder<br />20. Robert Hood - Nightmare World<br />21. Robert Hood - Still Hear (Los Hermanos Remix)<br /><br />Support the artist, buy their releases:<br />http://www.discogs.com/artist/Robert+Hood<br />http://www.myspace.com/hoodrob<br /><br />Mix Here:<br />http://www.dogsquad.co.uk/tbd/?p=370 ]]></description>
+	<pubDate>Mon, 15 Sep 2008 16:41:10 -0400</pubDate>
+	<author>MartinDust</author>
+	<category>techno</category>
+	<votes>12</votes>
+	<guid>http://www.detroitinstitute.org/techno/Black_Dog_-_One_Hour_With_Robert_Hood_DJ_Mix-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Replay: live mix on Untold Radio August2008]]></title>
+	<link>http://www.detroitinstitute.org/techno/Replay_live_mix_on_Untold_Radio_August2008/</link>
+	<source url="http://www.detroitinstitute.org/techno/Replay_live_mix_on_Untold_Radio_August2008/"><![CDATA[Replay: live mix on Untold Radio August2008]]></source>
+	<description><![CDATA[UK DJ/ Producer Romany "Replay" Muirhead, founder of Shazam Recordings gives a live mix on Untold radio. Slicin' & Dicin' his way through cutz from, Circulation, Carl Craig, Bugz in the Attic, Birdland, Stacey Pullen, Paul Mac, Aubrey and More. ]]></description>
+	<pubDate>Sun, 14 Sep 2008 14:47:39 -0400</pubDate>
+	<author>Replay</author>
+	<category>techno</category>
+	<votes>7</votes>
+	<guid>http://www.detroitinstitute.org/techno/Replay_live_mix_on_Untold_Radio_August2008/</guid>
+</item>
+
+</channel>
+</rss>

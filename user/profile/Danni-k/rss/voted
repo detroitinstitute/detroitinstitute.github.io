@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Danni-k / Voted News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Thu, 26 Apr 2007 10:40:02 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Danni-k minimal elektro tech mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/Danni-k_minimal_elektro_tech_mix/</link>
+	<source url="http://www.detroitinstitute.org/techno/Danni-k_minimal_elektro_tech_mix/"><![CDATA[Danni-k minimal elektro tech mix]]></source>
+	<description><![CDATA[just whanted to share my Rhythm whit you.<br /><br />this is a 4 deck blending history called departing landscapes hope you like it<br /><br />you kan find the set here http://www.myspace.com/danni_k_aka_tr3_d<br /><br />ore here:http://www.mixupload.com/media-Departing-landscapes ]]></description>
+	<pubDate>Thu, 26 Apr 2007 10:40:02 -0400</pubDate>
+	<author>Danni-k</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Danni-k_minimal_elektro_tech_mix/</guid>
+</item>
+
+</channel>
+</rss>

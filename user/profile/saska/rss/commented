@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / saska / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 14 Dec 2007 05:47:43 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Analog 313 - The old dance sound of Detroit]]></title>
+	<link>http://www.detroitinstitute.org/techno/Analog_313_-__old_dance_sound__Detroit/</link>
+	<source url="http://www.detroitinstitute.org/techno/Analog_313_-__old_dance_sound__Detroit/"><![CDATA[Analog 313 - The old dance sound of Detroit]]></source>
+	<description><![CDATA[<img border="10" vspace="5" align="right" width="200" src="http://homepage.ntlworld.com/t.macdonald2/OLDD.jpg" hspace="5" height="201" />The ''Old dance sound of Detroit'' is basically the name i have applied to my mixed interpretation of the classic <a target="_blank" href="http://www.discogs.com/release/65112" title="N">Techno - The new dance sound of Detroit</a> LP from 1988. Originally presented in the un-mixed format its now freshly sequenced together by yours truly. I hope you enjoy this little trip down memory lane passing old school house and arriving in early Detroit.<br />	62.1 MB MP3 (<a href="http://download.xdrive.com/XDRequestDispatcher?action=NonXShareDownload&amp;claim_check=3833640447cUwMmgY1vSYB4f4Mdv">download</a>) (<a target="_blank" href="http://www.zshare.net/download/5550708abfa08d/">mirror</a>)<br />	Link expires 11-01-08 ]]></description>
+	<pubDate>Fri, 14 Dec 2007 06:47:43 -0500</pubDate>
+	<author>313</author>
+	<category>techno</category>
+	<votes>15</votes>
+	<guid>http://www.detroitinstitute.org/techno/Analog_313_-__old_dance_sound__Detroit/</guid>
+</item>
+
+</channel>
+</rss>

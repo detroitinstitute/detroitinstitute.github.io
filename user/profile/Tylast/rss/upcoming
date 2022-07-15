@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Tylast / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 10 Nov 2008 13:54:23 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Ty LaStrapes - Techouse Set #1]]></title>
+	<link>http://www.detroitinstitute.org/techno/Ty_LaStrapes_-_Techouse_Set_1-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Ty_LaStrapes_-_Techouse_Set_1-1/"><![CDATA[Ty LaStrapes - Techouse Set #1]]></source>
+	<description><![CDATA[A wide range mix of Detroit & Techouse spanning from 1994 to 2008.  14 Years of goodness!<br /><br />Tracklist:<br />0:00	Dijf Sanders - Tickle Me Free<br />4:00	Holger Flinsch - Bad Reichenhall<br />10:30	Larry Heard presents Mr White - The Sun Can't Compare<br />17:30	Marc Romboy - The Awakening<br />24:00	Ty LaStrapes - Pretension<br />29:00	Slam - Slam EP<br />33:00	John Dahlback- Over You <br />38:30	Spirit Catcher - Between Brothers<br />44:00	Ty LaStrapes - What's Inside My Head<br />50:00	Jason Williams - Activator<br />54:30	Electronic Resistance - The Show<br />60:00	John Tejada - Watching & Waiting<br />64:30	Alex W aka Protector Hood - Morning Voyage<br />66:30	Black Box - Strike It Up<br />68:30	Dan Curtin - Track 17 ]]></description>
+	<pubDate>Mon, 10 Nov 2008 14:54:23 -0500</pubDate>
+	<author>Tylast</author>
+	<category>techno</category>
+	<votes>7</votes>
+	<guid>http://www.detroitinstitute.org/techno/Ty_LaStrapes_-_Techouse_Set_1-1/</guid>
+</item>
+
+</channel>
+</rss>

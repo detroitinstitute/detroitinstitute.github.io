@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / vadz / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 08 Apr 2009 09:15:55 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Postapocalyps Pop - Switchoff]]></title>
+	<link>http://www.detroitinstitute.org/techno/Postapocalyps_Pop_-_Switchoff/</link>
+	<source url="http://www.detroitinstitute.org/techno/Postapocalyps_Pop_-_Switchoff/"><![CDATA[Postapocalyps Pop - Switchoff]]></source>
+	<description><![CDATA[RTSW3: Postapocalyps Pop - Switchoff<br /><br /><img src="http://www.russian-techno.com/wp/wp-content/uploads/2009/04/rtsw3_sm.jpg"><br /><br />TRAKZ:<br />1. P.A.P. In Arms [3:20]<br />2. Jamie Ne Gemis Pas [4:53]<br />3. Moleculae [5:54]<br />4. Opdob [5:58]<br />5. Untitled (Vadz Remix) [5:00]<br /><br /><a href="http://www.archive.org/download/Rtsw3PostapocalypsPop-Switchoff/Rtsw3PostapocalypsPop-Switchoff_vbr_mp3.zip">DOWNLOAD MP3</a><br /><a href="http://rtsw3.4shared.com">DOWNLOAD WAV</a><br /><a href="http://www.archive.org/details/Rtsw3PostapocalypsPop-Switchoff">ARCHIVE.ORG</a><br /><br />INFO:<br />Here we go again! Experimental, raw, funky, robotic, hypnotic! St. Peterburg-based duo <a href="http://russian-techno.com/wp/index.php?page_id=32">Postapocalyps Pop</a> rocks your basement and moves your brain! So, what do we have here?<br /><br />It's 4 tracks plus a remix from <a href="http://russian-techno.com/wp/index.php?page_id=17">Vadz</a>. First track, 'P.A.P. In Arms', tunes you into proper mood and guides your robot through a new boot sequence. Weapons charged! Second track, 'Jamie Ne Gemis Pas' (used to be French, right?), is a straight-forward floor-filler with metallic flavour and nasty percussion. Start moving, it's an order! Third one, 'Moleculae' - dirty, hypnotic journey through your innerself with acidic pulsations. Electrolyte leakage! Nurse, fix the stitches! 'Opdob' is a perfect soundtrack for brain defragmentation sequence. Be careful! Occasional errors may occur, data loss possible! Last track is a summary of all in a free interpretation by Vadz. Add some spice and a new recipe for your cyber-fiance is ready! Overall - 5 of 5 for every and one wonky/funky/brighton/experimetal-influenced fan. Play it or fuck it, it's all yours now ;) ]]></description>
+	<pubDate>Wed, 08 Apr 2009 09:15:55 -0400</pubDate>
+	<author>vadz</author>
+	<category>techno</category>
+	<votes>7</votes>
+	<guid>http://www.detroitinstitute.org/techno/Postapocalyps_Pop_-_Switchoff/</guid>
+</item>
+
+<item>
+	<title><![CDATA[RTPOD-1: VADZ presents SUPER ELECTRO mix]]></title>
+	<link>http://www.detroitinstitute.org/techno/RTPOD-1_VADZ_presents_SUPER_ELECTRO_mix-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/RTPOD-1_VADZ_presents_SUPER_ELECTRO_mix-1/"><![CDATA[RTPOD-1: VADZ presents SUPER ELECTRO mix]]></source>
+	<description><![CDATA[<img src=http://www.russian-techno.com/wp/wp-content/uploads/2008/05/rtpod1.jpg><br /><br />So here's the very first <a href=http://www.russian-techno.com>Russian-Techno.Com</a> podcast over here! Vadz has put together a nice mix of his best-loved electro tracks, splicing and cutting them into a big journey. So, it feels like a spring in space ;) You have to check it out, trace it's mood and catch the flow... This one is truly made with love and passion!<br /><br /><a href="http://www.russian-techno.com/vadz_stuffed_spacemen_super_electro_mix.mp3">DOWNLOAD</a> <br /><a href="http://feeds.feedburner.com/russian-techno">SUBSCRIBE</a> ]]></description>
+	<pubDate>Wed, 28 May 2008 18:27:33 -0400</pubDate>
+	<author>vadz</author>
+	<category>techno</category>
+	<votes>11</votes>
+	<guid>http://www.detroitinstitute.org/techno/RTPOD-1_VADZ_presents_SUPER_ELECTRO_mix-1/</guid>
+</item>
+
+</channel>
+</rss>

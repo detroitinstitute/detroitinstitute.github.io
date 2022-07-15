@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / vadz / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 02 Jan 2009 15:36:15 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Bleep Radio 142: Vadz]]></title>
+	<link>http://www.detroitinstitute.org/techno/Bleep_Radio_142_Vadz/</link>
+	<source url="http://www.detroitinstitute.org/techno/Bleep_Radio_142_Vadz/"><![CDATA[Bleep Radio 142: Vadz]]></source>
+	<description><![CDATA[000: speedy j & george issakidis - understand what i'm saying (novamute)<br />005: phunkey rhythm doctor - mad poet (h. productions)<br />009: akio milan paak - gulcia (torema)<br />012: black devil - h friend (rephlex)<br />017: hlx - for girls and boys (kanzleramt)<br />020: laurent garnier - astral dreams (f communications)<br />024: vadz - kontrol in da house (unreleased)<br />028: john starlight - shadowbreaker (television)<br />033: vadz - mighty square (unreleased)<br />037: gearshifter - cartoon head (labrat audiochemicals)<br />041: speedy j - ieee mitten menu (novamute)<br />045: surgeon - exhibit (counterbalance)<br />048: debasser - fat girls (vadz remix) (wide)<br />053: visco space - be good to me (konsequent)<br />056: bryan zentz - equal (bush)<br />058: visco space - neverending story (konsequent)<br />060: visco space - raise some hell (konsequent)<br />063: dj vadz.ru - ode to bender (labrat audiochemicals)<br />068: bill youngman - born (tresor)<br />072: vadz - experts not allowed (unreleased)<br />075: cari lekebusch reconstructing lion dub - woman (h. productions)<br />078: vadz - hive diversion (unreleased)<br />082: chip tronic - sadened (ghettofuck)<br />086: r-zac - easter 92 (expressillon)<br />089: dj vadz.ru - lazy data (labrat audiochemicals)<br />093: oliver ho - human (surface)<br />096: hardfloor - strikeout (surgeon remix) (harthouse)<br />099: steve bicknell - in order to remember (b1) (cosmic)<br />101: issakidis - headbangers (the republic of desire)<br />109: heiko laux - the silent bass (kanzleramt)<br />115: freak electique - parsec (viewlexx)<br /><br /><a href="http://www.fun-in-the-murky.com/Bleep_Radio/Bleep%20Radio%20e142%20-%20Vadz%20-%2001-01-2009.mp3">Download</a> ]]></description>
+	<pubDate>Fri, 02 Jan 2009 16:36:15 -0500</pubDate>
+	<author>isoprax</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/Bleep_Radio_142_Vadz/</guid>
+</item>
+
+</channel>
+</rss>

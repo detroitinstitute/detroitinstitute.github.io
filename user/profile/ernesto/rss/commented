@@ -1,0 +1,38 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / ernesto / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Mon, 28 May 2007 23:56:32 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Adam Beyer & Joel Mull - WMC - Volatl - 3/24/07]]></title>
+	<link>http://www.detroitinstitute.org/techno/Adam_Beyer__Joel_Mull_-_WMC_-_Volatl_-_32407-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Adam_Beyer__Joel_Mull_-_WMC_-_Volatl_-_32407-1/"><![CDATA[Adam Beyer & Joel Mull - WMC - Volatl - 3/24/07]]></source>
+	<description><![CDATA[Adam Beyer n' Joel Mull at WMC party 'Volatl'<br /><br /><a href="http://www.megaupload.com/?d=0U55TI3O">Link here</a><br /><br />Three and a half hours of tasty techno served up on a decidedly untasty megauload.com link. <br /><br />Sorry for the crappy source and though a bit dated, it's good stuff. ]]></description>
+	<pubDate>Mon, 28 May 2007 23:56:32 -0400</pubDate>
+	<author>jeff</author>
+	<category>techno</category>
+	<votes>12</votes>
+	<guid>http://www.detroitinstitute.org/techno/Adam_Beyer__Joel_Mull_-_WMC_-_Volatl_-_32407-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[MIA Electronation]]></title>
+	<link>http://www.detroitinstitute.org/techno/MIA_Electronation-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/MIA_Electronation-1/"><![CDATA[MIA Electronation]]></source>
+	<description><![CDATA[<a href="http://www.detroitinstitute.org/techno/M-I---at-Studio-88/">As usual</a>, excellent minimal techno from <a href="http://www.detroitinstitute.org/techno/Troy-Pierce-Mia-at-Studio-88-1/">M.I.A.</a>  It's a shame it so short.<br /><br /><a href="http://www.mediafire.com/?4jn5mynmyym">Download mp3 from mediafire</a><br /><br />Total time 46:52 ]]></description>
+	<pubDate>Fri, 27 Apr 2007 16:40:30 -0400</pubDate>
+	<author>t614</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/MIA_Electronation-1/</guid>
+</item>
+
+</channel>
+</rss>

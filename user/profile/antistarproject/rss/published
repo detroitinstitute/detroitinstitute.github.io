@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / antistarproject / Published</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 13 Mar 2011 03:06:44 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Dubtronica Experiments]]></title>
+	<link>http://www.detroitinstitute.org/techno/dubtronica-experiments-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/dubtronica-experiments-1/"><![CDATA[Dubtronica Experiments]]></source>
+	<description><![CDATA[Dubtronica consists of electronic beats played in a downbeat manner. It is much lower in speed than techno and generally warmer than dance-oriented electronica. The genre is repetitive but rewards careful listener attention. Some tracks use reggae toasters or singers to produce a more accessible form of the music.<br /><br /> ]]></description>
+	<pubDate>Sun, 13 Mar 2011 03:06:44 -0400</pubDate>
+	<author>antistarproject</author>
+	<category>techno</category>
+	<votes>9</votes>
+	<guid>http://www.detroitinstitute.org/techno/dubtronica-experiments-1/</guid>
+</item>
+
+</channel>
+</rss>

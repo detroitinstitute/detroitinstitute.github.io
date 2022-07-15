@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / mike / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 14 Aug 2007 17:21:39 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[DJ Bone ... Attacks!!! Mix 40]]></title>
+	<link>http://www.detroitinstitute.org/techno/DJ_Bone__Attacks_Mix_40/</link>
+	<source url="http://www.detroitinstitute.org/techno/DJ_Bone__Attacks_Mix_40/"><![CDATA[DJ Bone ... Attacks!!! Mix 40]]></source>
+	<description><![CDATA[The latest installment in the Attack series, number 40.  <br /><br />Also out now is DJ BONE - OUTOFKNOWHERE, "Dj Bone's debut album on Subject Detroit Records. Listen as years of strength, knowledge, experiences, emotion, soul and spirit come flow thru your speakers. This album is true to the roots of Detroit's Techno Soul but also touches on Hip-Hop, House & Electro. Every song is tied together with audio excerpts from a rare Dj Bone interview. Knowhere is the place true warriors live."<br /><br />Go buy that shit now from <a href="http://www.subjectdetroit.com/loudbabycartx/product.php?productid=1&cat=5&page=1">Subject Detroit</a>'s site where you can preview some samples as well.<br /><br /><a href="http://www.7mzdt.com/subjectdetroit/mp3/djboneattacks_mix40.mp3">Download mp3</a> ]]></description>
+	<pubDate>Tue, 14 Aug 2007 17:21:39 -0400</pubDate>
+	<author>tomo</author>
+	<category>techno</category>
+	<votes>6</votes>
+	<guid>http://www.detroitinstitute.org/techno/DJ_Bone__Attacks_Mix_40/</guid>
+</item>
+
+</channel>
+</rss>

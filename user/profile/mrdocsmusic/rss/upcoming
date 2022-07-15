@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / mrdocsmusic / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Tue, 14 Apr 2009 19:48:34 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Mr. Doc's Blunted Techno, Live at GFY Chicago]]></title>
+	<link>http://www.detroitinstitute.org/techno/Mr_Docs_Blunted_Techno_Live_at_GFY_Chicago-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Mr_Docs_Blunted_Techno_Live_at_GFY_Chicago-1/"><![CDATA[Mr. Doc's Blunted Techno, Live at GFY Chicago]]></source>
+	<description><![CDATA[Very Popular mix at the famed GFY in Chicago. Mr. Doc shows his hard techno skills in this fun and energetic mix. ]]></description>
+	<pubDate>Tue, 14 Apr 2009 19:48:34 -0400</pubDate>
+	<author>mrdocsmusic</author>
+	<category>techno</category>
+	<votes>1</votes>
+	<guid>http://www.detroitinstitute.org/techno/Mr_Docs_Blunted_Techno_Live_at_GFY_Chicago-1/</guid>
+</item>
+
+</channel>
+</rss>

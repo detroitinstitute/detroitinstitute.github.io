@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / detroitologist / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Sun, 14 Feb 2010 14:33:29 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Nighttime World]]></title>
+	<link>http://www.detroitinstitute.org/techno/Nighttime_World/</link>
+	<source url="http://www.detroitinstitute.org/techno/Nighttime_World/"><![CDATA[Nighttime World]]></source>
+	<description><![CDATA[<img src='http://img838.imageshack.us/img838/4443/56760080.jpg' border='0'/></a><br /><br />Now that General Motors has been reorganized with the money of the people we should not only ask for that money back, we should demand that they give everything back that they scandalously took from the American people, give us back our fvcking public transportation system$#@!<br /><br /><a href="http://soundcloud.com/detroitologist/detroitologist-my-detroit-short">DOWNLOAD SOUNDCLOUD"> ]]></description>
+	<pubDate>Sun, 14 Feb 2010 15:33:29 -0500</pubDate>
+	<author>detroitologist</author>
+	<category>techno</category>
+	<votes>20</votes>
+	<guid>http://www.detroitinstitute.org/techno/Nighttime_World/</guid>
+</item>
+
+</channel>
+</rss>

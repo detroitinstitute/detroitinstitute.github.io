@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / drummy / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 25 Feb 2009 13:37:48 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Crazik - Resound 006 (February 2009)]]></title>
+	<link>http://www.detroitinstitute.org/techno/Crazik_-_Resound_006_February_2009-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Crazik_-_Resound_006_February_2009-1/"><![CDATA[Crazik - Resound 006 (February 2009)]]></source>
+	<description><![CDATA[<a href="http://www.crazik.com/download_mix_crazik_resound_006.htm"target="_blank"><img src="http://www.crazik.com/images/photos/cover_crazik_resound006.jpg"></a><br /><br />TECHNO, PROGRESSIVE HOUSE, ELECTRO<br />Artist : Crazik<br />Title : Resound 006<br />Length : One Hour !<br />Bitrate : 256 kbps <br /><br />FOR THE SOUND LOVERS ...<br />Download link: <a href="http://www.crazik.com/download_mix_crazik_resound_006.htm" target="_blank">CLICK HERE TO DOWNLOAD</a><br /><br />Enjoy this new release ! ]]></description>
+	<pubDate>Wed, 25 Feb 2009 14:37:48 -0500</pubDate>
+	<author>djchris</author>
+	<category>techno</category>
+	<votes>11</votes>
+	<guid>http://www.detroitinstitute.org/techno/Crazik_-_Resound_006_February_2009-1/</guid>
+</item>
+
+</channel>
+</rss>

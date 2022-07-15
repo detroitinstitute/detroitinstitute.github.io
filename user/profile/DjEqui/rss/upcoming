@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / DjEqui / Unpublished</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 18 Jul 2008 07:03:15 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Dj Equi - ProgTunes 006 on Tribalmixes Radio]]></title>
+	<link>http://www.detroitinstitute.org/techno/Dj_Equi_-_ProgTunes_006_on_Tribalmixes_Radio/</link>
+	<source url="http://www.detroitinstitute.org/techno/Dj_Equi_-_ProgTunes_006_on_Tribalmixes_Radio/"><![CDATA[Dj Equi - ProgTunes 006 on Tribalmixes Radio]]></source>
+	<description><![CDATA[Artist : Equi<br />Title : ProgTunes 006<br />Style : Progressive<br />Rls Date : 04 July 2008<br />Length : 58:03<br />Bitrate : 192 kbps<br /><br />Tracks:<br />1. Roger Liland - Azteca  Pole Folder 17 Secs Mix<br />2. Milan Khol - Little Lamp (Forteba Remix)<br />3. Mannover - Psychotic (Federico Monachesi Remix)<br />4. Claes Rosen - Mystify (Absorb Project Remix)<br />5. Bobby Deep - Siempre La Musica (Christos Fourkis Remix)<br />6. lenn Morrison - Cosmic Flight (Nick Warren Remix)<br />7. Sam Ball - Aperture (Logiztik Sounds Remix)<br />8. Dee-La, Felusch - Until Delight (Original Mix)<br />9. Bitcrushers - Sick Thing To Do (Big Bit Mix)<br /><br />Enjoy! ]]></description>
+	<pubDate>Fri, 18 Jul 2008 07:03:15 -0400</pubDate>
+	<author>DjEqui</author>
+	<category>techno</category>
+	<votes>9</votes>
+	<guid>http://www.detroitinstitute.org/techno/Dj_Equi_-_ProgTunes_006_on_Tribalmixes_Radio/</guid>
+</item>
+
+</channel>
+</rss>

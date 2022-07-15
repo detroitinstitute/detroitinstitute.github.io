@@ -1,0 +1,50 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / NNRR / All</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Fri, 28 May 2010 14:08:30 -0400</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[A mad-crazy-funky style!]]></title>
+	<link>http://www.detroitinstitute.org/techno/mad-crazy-funky_style/</link>
+	<source url="http://www.detroitinstitute.org/techno/mad-crazy-funky_style/"><![CDATA[A mad-crazy-funky style!]]></source>
+	<description><![CDATA[A track I recently produced in the Classic Detroit Techno style with my own twist to it... Enjoy<br /><br />http://soundcloud.com/daniel-c-barker/bumpin-grind<br /><br />Daniel C. Barker / NNRR ]]></description>
+	<pubDate>Fri, 28 May 2010 14:08:30 -0400</pubDate>
+	<author>NNRR</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/mad-crazy-funky_style/</guid>
+</item>
+
+<item>
+	<title><![CDATA[Dick Hertz/NNRR - New Project from Daniel C. Barker]]></title>
+	<link>http://www.detroitinstitute.org/techno/Dick_HertzNNRR_-_New_Project_from_Daniel_C_Barker-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Dick_HertzNNRR_-_New_Project_from_Daniel_C_Barker-1/"><![CDATA[Dick Hertz/NNRR - New Project from Daniel C. Barker]]></source>
+	<description><![CDATA["Dick Hertz"<br /><br />A new project from Daniel C. Barker<br /><br />It's all about the wavelength baby!<br /><br />Http://nnrr.bandcamp.com<br /><br />Enjoy!<br /><br />NNRR.FM<br />NNRR.BANDCAMP.COM ]]></description>
+	<pubDate>Tue, 28 Apr 2009 15:54:35 -0400</pubDate>
+	<author>NNRR</author>
+	<category>techno</category>
+	<votes>2</votes>
+	<guid>http://www.detroitinstitute.org/techno/Dick_HertzNNRR_-_New_Project_from_Daniel_C_Barker-1/</guid>
+</item>
+
+<item>
+	<title><![CDATA[The Tuesday Night Time Flyers]]></title>
+	<link>http://www.detroitinstitute.org/techno/Tuesday_Night_Time_Flyers-1/</link>
+	<source url="http://www.detroitinstitute.org/techno/Tuesday_Night_Time_Flyers-1/"><![CDATA[The Tuesday Night Time Flyers]]></source>
+	<description><![CDATA[Influenced by 1980s Industrial Beats and the new sound Emerging out of Detroit/Chicago, and a desire to feel, this unknown Artist has produced many exploratory minimalistic and Industrial Strength type of Funk/Techno since 1995.<br /><br />Instead of a long story, the music should speak for itself.<br /><br />MYSPACE.COM/TNTF<br />HTTP://NNRR.FM<br />Daniel C. Barker<br />NNRR ]]></description>
+	<pubDate>Sat, 01 Nov 2008 03:27:41 -0400</pubDate>
+	<author>NNRR</author>
+	<category>techno</category>
+	<votes>3</votes>
+	<guid>http://www.detroitinstitute.org/techno/Tuesday_Night_Time_Flyers-1/</guid>
+</item>
+
+</channel>
+</rss>

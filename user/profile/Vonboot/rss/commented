@@ -1,0 +1,26 @@
+<?phpxml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+>
+<channel>
+<title>Detroit Institute of Techno / Vonboot / Commented News</title>
+<link>http://www.detroitinstitute.org</link>
+<description>fresh techno DJ mixes and livesets daily</description>
+<pubDate>Wed, 08 Feb 2012 16:27:26 -0500</pubDate>
+<language>en</language>
+<item>
+	<title><![CDATA[Shapednoise @ Svarionipremeditati Podcast #13 [08.02.2012]]]></title>
+	<link>http://www.detroitinstitute.org/techno/shapednoise-svarionipremeditati-podcast-13-08-02-2012/</link>
+	<source url="http://www.detroitinstitute.org/techno/shapednoise-svarionipremeditati-podcast-13-08-02-2012/"><![CDATA[Shapednoise @ Svarionipremeditati Podcast #13 [08.02.2012]]]></source>
+	<description><![CDATA[<img src="http://img28.imageshack.us/img28/1927/684087279973eaa8093b.jpg" alt="Free Image Hosting at www.ImageShack.us" border="0"/></a><br /><br /><a href="http://soundcloud.com/svarionipremeditati/shapednoise/download/s-pNtbC">DOWNLOAD SOUNDCLOUD</a> ]]></description>
+	<pubDate>Wed, 08 Feb 2012 17:27:26 -0500</pubDate>
+	<author>chordminor</author>
+	<category>techno</category>
+	<votes>10</votes>
+	<guid>http://www.detroitinstitute.org/techno/shapednoise-svarionipremeditati-podcast-13-08-02-2012/</guid>
+</item>
+
+</channel>
+</rss>
